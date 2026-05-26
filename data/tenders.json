@@ -1,7 +1,10 @@
 {
   "updated": "2026-05-26T06:00:00Z",
   "total": 18,
-  "sources": { "simap": 9, "dtvp": 9 },
+  "sources": {
+    "simap": 9,
+    "dtvp": 9
+  },
   "tenders": [
     {
       "id": "simap-2026-1041",
@@ -12,9 +15,13 @@
       "country": "CH",
       "published": "2026-05-22",
       "deadline": "20.06.2026",
-      "categories": ["Website", "Design", "CMS"],
+      "categories": [
+        "Website",
+        "Design",
+        "CMS"
+      ],
       "source": "simap",
-      "url": "https://www.simap.ch/shabforms/servlet/Search?SIMAP_COMMON_FIELD_LANGUAGE=DE&SIMAP_COMMON_FIELD_PROJECT_TITLE=Unternehmenswebsite+CMS",
+      "url": "https://www.simap.ch/de",
       "value": "CHF 280'000",
       "status": "open"
     },
@@ -27,9 +34,12 @@
       "country": "CH",
       "published": "2026-05-18",
       "deadline": "30.06.2026",
-      "categories": ["CRM", "Digitalisierung"],
+      "categories": [
+        "CRM",
+        "Digitalisierung"
+      ],
       "source": "simap",
-      "url": "https://www.simap.ch/shabforms/servlet/Search?SIMAP_COMMON_FIELD_LANGUAGE=DE&SIMAP_COMMON_FIELD_PROJECT_TITLE=CRM+kantonale+Verwaltung",
+      "url": "https://www.simap.ch/de",
       "value": "CHF 450'000",
       "status": "open"
     },
@@ -42,9 +52,13 @@
       "country": "CH",
       "published": "2026-05-15",
       "deadline": "28.06.2026",
-      "categories": ["Design", "Digitalisierung", "UX"],
+      "categories": [
+        "Design",
+        "Digitalisierung",
+        "UX"
+      ],
       "source": "simap",
-      "url": "https://www.simap.ch/shabforms/servlet/Search?SIMAP_COMMON_FIELD_LANGUAGE=DE&SIMAP_COMMON_FIELD_PROJECT_TITLE=Digitalstrategie+UX+Stadtportal",
+      "url": "https://www.simap.ch/de",
       "value": "CHF 180'000",
       "status": "open"
     },
@@ -57,9 +71,12 @@
       "country": "CH",
       "published": "2026-05-10",
       "deadline": "15.07.2026",
-      "categories": ["ERP", "Digitalisierung"],
+      "categories": [
+        "ERP",
+        "Digitalisierung"
+      ],
       "source": "simap",
-      "url": "https://www.simap.ch/shabforms/servlet/Search?SIMAP_COMMON_FIELD_LANGUAGE=DE&SIMAP_COMMON_FIELD_PROJECT_TITLE=ERP+System+Universit%C3%A4t",
+      "url": "https://www.simap.ch/de",
       "value": "CHF 1'200'000",
       "status": "open"
     },
@@ -72,9 +89,12 @@
       "country": "CH",
       "published": "2026-05-20",
       "deadline": "25.06.2026",
-      "categories": ["App", "Digitalisierung"],
+      "categories": [
+        "App",
+        "Digitalisierung"
+      ],
       "source": "simap",
-      "url": "https://www.simap.ch/shabforms/servlet/Search?SIMAP_COMMON_FIELD_LANGUAGE=DE&SIMAP_COMMON_FIELD_PROJECT_TITLE=Mobile+App+B%C3%BCrgerdienste",
+      "url": "https://www.simap.ch/de",
       "value": "CHF 350'000",
       "status": "open"
     },
@@ -87,9 +107,12 @@
       "country": "CH",
       "published": "2026-05-12",
       "deadline": "01.07.2026",
-      "categories": ["PIM", "Digitalisierung"],
+      "categories": [
+        "PIM",
+        "Digitalisierung"
+      ],
       "source": "simap",
-      "url": "https://www.simap.ch/shabforms/servlet/Search?SIMAP_COMMON_FIELD_LANGUAGE=DE&SIMAP_COMMON_FIELD_PROJECT_TITLE=PIM+System+Datenmigration",
+      "url": "https://www.simap.ch/de",
       "value": "CHF 220'000",
       "status": "open"
     },
@@ -102,9 +125,13 @@
       "country": "CH",
       "published": "2026-05-08",
       "deadline": "10.07.2026",
-      "categories": ["Marketing", "Website", "Design"],
+      "categories": [
+        "Marketing",
+        "Website",
+        "Design"
+      ],
       "source": "simap",
-      "url": "https://www.simap.ch/shabforms/servlet/Search?SIMAP_COMMON_FIELD_LANGUAGE=DE&SIMAP_COMMON_FIELD_PROJECT_TITLE=Marketing+Webauftritt+Tourismus",
+      "url": "https://www.simap.ch/de",
       "value": "CHF 160'000",
       "status": "open"
     },
@@ -117,9 +144,13 @@
       "country": "CH",
       "published": "2026-05-24",
       "deadline": "05.07.2026",
-      "categories": ["E-Commerce", "Digitalisierung", "Design"],
+      "categories": [
+        "E-Commerce",
+        "Digitalisierung",
+        "Design"
+      ],
       "source": "simap",
-      "url": "https://www.simap.ch/shabforms/servlet/Search?SIMAP_COMMON_FIELD_LANGUAGE=DE&SIMAP_COMMON_FIELD_PROJECT_TITLE=E-Commerce+Plattform",
+      "url": "https://www.simap.ch/de",
       "value": "CHF 480'000",
       "status": "open"
     },
@@ -132,9 +163,12 @@
       "country": "CH",
       "published": "2026-05-19",
       "deadline": "18.06.2026",
-      "categories": ["Digitalisierung", "Website"],
+      "categories": [
+        "Digitalisierung",
+        "Website"
+      ],
       "source": "simap",
-      "url": "https://www.simap.ch/shabforms/servlet/Search?SIMAP_COMMON_FIELD_LANGUAGE=DE&SIMAP_COMMON_FIELD_PROJECT_TITLE=SharePoint+Intranet+Modernisierung",
+      "url": "https://www.simap.ch/de",
       "value": "CHF 620'000",
       "status": "closing"
     },
@@ -147,9 +181,13 @@
       "country": "DE",
       "published": "2026-05-21",
       "deadline": "22.06.2026",
-      "categories": ["Website", "Design", "CMS"],
+      "categories": [
+        "Website",
+        "Design",
+        "CMS"
+      ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/notice/searchNotice.do?method=showSearchForm&freeText=Webauftritt+CMS+M%C3%BCnchen",
+      "url": "https://www.dtvp.de/Center/common/project/search.do?method=showExtendedSearch&fromExternal=true&searchText=Webauftritt+und+CMS+Relaunch+Stadtverwaltung",
       "value": "€ 320.000",
       "status": "open"
     },
@@ -162,9 +200,12 @@
       "country": "DE",
       "published": "2026-05-16",
       "deadline": "10.07.2026",
-      "categories": ["CRM", "Digitalisierung"],
+      "categories": [
+        "CRM",
+        "Digitalisierung"
+      ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/notice/searchNotice.do?method=showSearchForm&freeText=CRM+Dynamics+365",
+      "url": "https://www.dtvp.de/Center/common/project/search.do?method=showExtendedSearch&fromExternal=true&searchText=Einf%C3%BChrung+Microsoft+Dynamics+365+CRM",
       "value": "€ 780.000",
       "status": "open"
     },
@@ -177,9 +218,12 @@
       "country": "DE",
       "published": "2026-05-23",
       "deadline": "27.06.2026",
-      "categories": ["App", "Digitalisierung"],
+      "categories": [
+        "App",
+        "Digitalisierung"
+      ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/notice/searchNotice.do?method=showSearchForm&freeText=App+Mobilit%C3%A4t+Hamburg",
+      "url": "https://www.dtvp.de/Center/common/project/search.do?method=showExtendedSearch&fromExternal=true&searchText=App-Entwicklung+Mobilit%C3%A4tsdienste+Stadtwerke+Hamburg",
       "value": "€ 420.000",
       "status": "open"
     },
@@ -192,9 +236,12 @@
       "country": "DE",
       "published": "2026-05-14",
       "deadline": "20.07.2026",
-      "categories": ["ERP", "Digitalisierung"],
+      "categories": [
+        "ERP",
+        "Digitalisierung"
+      ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/notice/searchNotice.do?method=showSearchForm&freeText=SAP+ERP+S4HANA+Migration",
+      "url": "https://www.dtvp.de/Center/common/project/search.do?method=showExtendedSearch&fromExternal=true&searchText=SAP+ERP+S%2F4HANA+Migration+und",
       "value": "€ 2.400.000",
       "status": "open"
     },
@@ -207,9 +254,12 @@
       "country": "DE",
       "published": "2026-05-09",
       "deadline": "02.06.2026",
-      "categories": ["Design", "Marketing"],
+      "categories": [
+        "Design",
+        "Marketing"
+      ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/notice/searchNotice.do?method=showSearchForm&freeText=Corporate+Design+System+Bundesdruckerei",
+      "url": "https://www.dtvp.de/Center/common/project/search.do?method=showExtendedSearch&fromExternal=true&searchText=Brand+Redesign+und+Corporate+Design",
       "value": "€ 195.000",
       "status": "closing"
     },
@@ -222,9 +272,12 @@
       "country": "DE",
       "published": "2026-05-19",
       "deadline": "24.06.2026",
-      "categories": ["Marketing", "Digitalisierung"],
+      "categories": [
+        "Marketing",
+        "Digitalisierung"
+      ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/notice/searchNotice.do?method=showSearchForm&freeText=Digitalmarketing+Rahmenvertrag+Bundeswehr",
+      "url": "https://www.dtvp.de/Center/common/project/search.do?method=showExtendedSearch&fromExternal=true&searchText=Digitalmarketing-Agenturrahmenvertrag+2026%E2%80%932028",
       "value": "€ 960.000",
       "status": "open"
     },
@@ -237,9 +290,13 @@
       "country": "DE",
       "published": "2026-05-25",
       "deadline": "08.07.2026",
-      "categories": ["PIM", "Digitalisierung", "Website"],
+      "categories": [
+        "PIM",
+        "Digitalisierung",
+        "Website"
+      ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/notice/searchNotice.do?method=showSearchForm&freeText=PIM+E-Government+BayernPortal",
+      "url": "https://www.dtvp.de/Center/common/project/search.do?method=showExtendedSearch&fromExternal=true&searchText=PIM-L%C3%B6sung+und+Produktdatenpflege+E-Government+Portal",
       "value": "€ 340.000",
       "status": "open"
     },
@@ -252,9 +309,13 @@
       "country": "DE",
       "published": "2026-05-17",
       "deadline": "29.06.2026",
-      "categories": ["Website", "Digitalisierung", "E-Commerce"],
+      "categories": [
+        "Website",
+        "Digitalisierung",
+        "E-Commerce"
+      ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/notice/searchNotice.do?method=showSearchForm&freeText=F%C3%B6rdermittel+Online-Plattform+KfW",
+      "url": "https://www.dtvp.de/Center/common/project/search.do?method=showExtendedSearch&fromExternal=true&searchText=Online-Plattform+F%C3%B6rdermittelmanagement+Bund",
       "value": "€ 880.000",
       "status": "open"
     },
@@ -267,9 +328,13 @@
       "country": "DE",
       "published": "2026-05-11",
       "deadline": "04.06.2026",
-      "categories": ["Design", "Website", "UX"],
+      "categories": [
+        "Design",
+        "Website",
+        "UX"
+      ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/notice/searchNotice.do?method=showSearchForm&freeText=UX+Research+Usability+bpb",
+      "url": "https://www.dtvp.de/Center/common/project/search.do?method=showExtendedSearch&fromExternal=true&searchText=UX+Research+und+Usability+Testing",
       "value": "€ 85.000",
       "status": "closing"
     }

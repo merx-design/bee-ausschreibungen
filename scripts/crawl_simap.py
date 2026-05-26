@@ -51,7 +51,12 @@ CATEGORY_MAP = {
 }
 
 BASE_URL = "https://www.simap.ch"
-SEARCH_URL = f"{BASE_URL}/shabforms/servlet/Search"
+# New SIMAP (post July 2024): REST API requires OAuth.
+# Unauthenticated scraping fetches the React SPA shell, not data.
+# For live data, callers should register at simap.ch and provide OAuth tokens.
+# Without auth, we fall back to PUBLIC_SEARCH_URL on all links.
+SEARCH_URL = f"{BASE_URL}/publications/v2/project/project-search"
+PUBLIC_SEARCH_URL = f"{BASE_URL}/de"
 
 
 def make_id(url_or_text: str) -> str:
@@ -104,12 +109,12 @@ def parse_row(row, keyword: str) -> dict | None:
         if not title or len(title) < 5:
             return None
 
-        if href and href.startswith("/"):
+        if href and href.startswith("/de/project-detail/"):
             full_url = BASE_URL + href
-        elif href and href.startswith("http"):
+        elif href and href.startswith("http") and "simap.ch" in href:
             full_url = href
         else:
-            full_url = f"{SEARCH_URL}?SIMAP_COMMON_FIELD_LANGUAGE=DE&SIMAP_COMMON_FIELD_PROJECT_TITLE={requests.utils.quote(title[:60])}"
+            full_url = PUBLIC_SEARCH_URL
 
         # Extract cells — SIMAP column order varies but typically:
         # [notice_no, date, title_link, authority, procedure, deadline]
@@ -165,12 +170,12 @@ def parse_article(article, keyword: str) -> dict | None:
             return None
 
         href = link["href"] if link else ""
-        if href and href.startswith("/"):
+        if href and href.startswith("/de/project-detail/"):
             full_url = BASE_URL + href
-        elif href and href.startswith("http"):
+        elif href and href.startswith("http") and "simap.ch" in href:
             full_url = href
         else:
-            full_url = f"{SEARCH_URL}?SIMAP_COMMON_FIELD_LANGUAGE=DE&SIMAP_COMMON_FIELD_PROJECT_TITLE={requests.utils.quote(title[:60])}"
+            full_url = PUBLIC_SEARCH_URL
 
         text = article.get_text(" ", strip=True)
         date_pattern = re.compile(r"\d{2}\.\d{2}\.\d{4}")

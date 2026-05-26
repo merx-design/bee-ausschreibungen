@@ -53,12 +53,11 @@ CATEGORY_MAP = {
 
 BASE_URL = "https://www.dtvp.de"
 
-# DTVP search endpoints to try
+# DTVP confirmed working search endpoint (tested May 2026)
 SEARCH_ENDPOINTS = [
-    f"{BASE_URL}/Center/announce/search.do",
-    f"{BASE_URL}/DTVP/notice/search",
-    f"{BASE_URL}/vergabe/suche",
+    f"{BASE_URL}/Center/common/project/search.do",
 ]
+SEARCH_PARAMS_BASE = "method=showExtendedSearch&fromExternal=true"
 
 
 def make_id(text: str) -> str:
@@ -115,14 +114,14 @@ def parse_dtvp_item(item, keyword: str) -> dict | None:
             return None
 
         href = link["href"]
+        from urllib.parse import quote
         if href.startswith("/"):
             full_url = BASE_URL + href
         elif href.startswith("http"):
             full_url = href
         else:
-            # Fall back to a keyword search — never link to bare homepage
-            from urllib.parse import quote
-            full_url = f"{BASE_URL}/Center/notice/searchNotice.do?method=showSearchForm&freeText={quote(title[:60])}"
+            # Fall back to the working search URL with title as keyword
+            full_url = f"{BASE_URL}/Center/common/project/search.do?method=showExtendedSearch&fromExternal=true&searchText={quote(title[:60])}"
 
         full_text = item.get_text(" ", strip=True)
         dates = re.findall(r"\d{2}\.\d{2}\.\d{4}", full_text)
@@ -171,12 +170,9 @@ def try_search_endpoint(session: requests.Session, endpoint: str, keyword: str) 
     results = []
     try:
         params = {
-            "method": "searchFormAnnouncements",
-            "query": keyword,
-            "freeText": keyword,
-            "q": keyword,
-            "suche": keyword,
-            "orderBy": "DATE_DESC",
+            "method": "showExtendedSearch",
+            "fromExternal": "true",
+            "searchText": keyword,
         }
         resp = session.get(endpoint, params=params, timeout=30, allow_redirects=True)
 
