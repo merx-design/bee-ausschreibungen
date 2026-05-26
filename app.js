@@ -1,5 +1,5 @@
 /* ================================================================
-   Ausschreibungen — Bee digital growth — app.js
+   Bee Ausschreibungen — Bee digital growth
    ================================================================ */
 
 "use strict";
@@ -422,10 +422,10 @@ async function loadData() {
   } catch (err) {
     console.error("Failed to load tenders:", err);
     grid.innerHTML = `
-      <div style="grid-column:1/-1;text-align:center;padding:60px 20px;color:var(--text-3)">
-        <p style="font-family:var(--font-ui);font-size:16px;color:var(--text-2)">Daten konnten nicht geladen werden.</p>
-        <p style="font-family:var(--font-mono);font-size:11px;margin-top:8px">${esc(err.message)}</p>
-        <button onclick="loadData()" style="margin-top:20px" class="reset-btn reset-btn--center">Erneut versuchen</button>
+      <div style="grid-column:1/-1;text-align:center;padding:60px 20px;">
+        <p style="font-size:15px;font-weight:600;color:var(--text-1);margin-bottom:8px">Daten konnten nicht geladen werden.</p>
+        <p style="font-family:var(--mono);font-size:11px;color:var(--text-3);margin-bottom:20px">${esc(err.message)}</p>
+        <button onclick="loadData()" class="reset-btn" style="margin:0 auto">Erneut versuchen</button>
       </div>`;
   }
 }

@@ -7,26 +7,23 @@
   <meta name="description" content="Bee digital growth — Aktuelle Ausschreibungen für Digitalisierung, Web, Design, CRM, ERP, PIM und Marketing aus Deutschland und der Schweiz." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;1,6..72,300;1,6..72,400&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-
-  <!-- Background grid -->
-  <div class="bg-grid" aria-hidden="true"></div>
-  <div class="bg-glow" aria-hidden="true"></div>
 
   <!-- Header -->
   <header class="site-header">
     <div class="header-inner">
       <div class="header-brand">
-        <div class="brand-mark" aria-hidden="true">
-          <span class="brand-dot"></span>
-          <span class="brand-dot"></span>
-          <span class="brand-dot"></span>
-        </div>
+        <svg class="brand-icon" viewBox="0 0 28 28" fill="none" aria-hidden="true">
+          <rect x="2" y="2" width="11" height="11" rx="2" fill="#111"/>
+          <rect x="15" y="2" width="11" height="11" rx="2" fill="#111" opacity="0.3"/>
+          <rect x="2" y="15" width="11" height="11" rx="2" fill="#111" opacity="0.3"/>
+          <rect x="15" y="15" width="11" height="11" rx="2" fill="#111"/>
+        </svg>
         <div class="brand-text">
-          <span class="brand-name">Ausschreibungen</span>
+          <span class="brand-name">Bee Ausschreibungen</span>
           <span class="brand-sub">Bee digital growth · Vergabe-Monitor</span>
         </div>
       </div>
@@ -43,12 +40,12 @@
           </div>
           <div class="counter-divider"></div>
           <div class="counter-item">
-            <span class="counter-val simap-color" id="count-simap">—</span>
+            <span class="counter-val" id="count-simap">—</span>
             <span class="counter-lbl">SIMAP</span>
           </div>
           <div class="counter-divider"></div>
           <div class="counter-item">
-            <span class="counter-val dtvp-color" id="count-dtvp">—</span>
+            <span class="counter-val" id="count-dtvp">—</span>
             <span class="counter-lbl">DTVP</span>
           </div>
         </div>
@@ -62,7 +59,7 @@
 
       <!-- Search -->
       <div class="search-wrap">
-        <svg class="search-icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5">
+        <svg class="search-icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8">
           <circle cx="8.5" cy="8.5" r="5.5"/>
           <path d="M13.5 13.5L18 18"/>
         </svg>
@@ -77,13 +74,12 @@
         <kbd class="search-kbd">⌘K</kbd>
       </div>
 
-      <!-- Filters -->
       <div class="filter-group">
         <span class="filter-label">Quelle</span>
         <div class="filter-pills" id="filter-source">
           <button class="pill active" data-value="all">Alle</button>
-          <button class="pill pill-simap" data-value="simap">SIMAP.ch</button>
-          <button class="pill pill-dtvp" data-value="dtvp">DTVP.de</button>
+          <button class="pill" data-value="simap">SIMAP.ch</button>
+          <button class="pill" data-value="dtvp">DTVP.de</button>
         </div>
       </div>
 
@@ -91,8 +87,8 @@
         <span class="filter-label">Land</span>
         <div class="filter-pills" id="filter-country">
           <button class="pill active" data-value="all">Alle</button>
-          <button class="pill" data-value="CH">🇨🇭 CH</button>
-          <button class="pill" data-value="DE">🇩🇪 DE</button>
+          <button class="pill" data-value="CH">🇨🇭 Schweiz</button>
+          <button class="pill" data-value="DE">🇩🇪 Deutschland</button>
         </div>
       </div>
 
@@ -100,16 +96,15 @@
         <span class="filter-label">Frist</span>
         <div class="filter-pills" id="filter-status">
           <button class="pill active" data-value="all">Alle aktuellen</button>
-          <button class="pill pill-open" data-value="open">Offen</button>
+          <button class="pill" data-value="open">Offen</button>
           <button class="pill pill-closing" data-value="closing">Läuft ab</button>
         </div>
       </div>
 
-      <!-- Sort -->
       <div class="filter-group filter-group--right">
         <span class="filter-label">Sortierung</span>
         <select class="sort-select" id="sort-select">
-          <option value="status">Status & Frist</option>
+          <option value="status">Status &amp; Frist</option>
           <option value="deadline">Frist aufsteigend</option>
           <option value="published">Neueste zuerst</option>
           <option value="value">Auftragswert</option>
@@ -119,30 +114,25 @@
     </div>
   </div>
 
-  <!-- Category filter strip -->
+  <!-- Category strip -->
   <div class="category-strip">
     <div class="category-strip-inner">
       <span class="strip-label">Kategorie</span>
-      <div class="cat-pills" id="cat-pills">
-        <!-- Rendered by JS -->
-      </div>
+      <div class="cat-pills" id="cat-pills"></div>
     </div>
   </div>
 
-  <!-- Main content -->
+  <!-- Main -->
   <main class="main">
     <div class="main-inner">
 
-      <!-- Results bar -->
       <div class="results-bar">
         <span class="results-count"><span id="visible-count">—</span> Ausschreibungen</span>
         <div class="active-filters" id="active-filters"></div>
-        <button class="reset-btn" id="reset-btn" style="display:none">Filter zurücksetzen</button>
+        <button class="reset-btn" id="reset-btn" style="display:none">Zurücksetzen</button>
       </div>
 
-      <!-- Grid -->
       <div class="tender-grid" id="tender-grid">
-        <!-- Skeleton placeholders -->
         <div class="skeleton-card"></div>
         <div class="skeleton-card"></div>
         <div class="skeleton-card"></div>
@@ -151,25 +141,22 @@
         <div class="skeleton-card"></div>
       </div>
 
-      <!-- Empty state -->
       <div class="empty-state" id="empty-state" style="display:none">
-        <div class="empty-icon" aria-hidden="true">◈</div>
+        <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" class="empty-icon-svg">
+          <circle cx="24" cy="24" r="20"/>
+          <path d="M16 24h16M24 16v16"/>
+        </svg>
         <p class="empty-title">Keine Ausschreibungen gefunden</p>
-        <p class="empty-sub">Versuche andere Suchbegriffe oder Filter.</p>
-        <button class="reset-btn reset-btn--center" onclick="resetAll()">Filter zurücksetzen</button>
+        <p class="empty-sub">Passe Suchbegriffe oder Filter an.</p>
+        <button class="reset-btn" onclick="resetAll()">Filter zurücksetzen</button>
       </div>
 
     </div>
   </main>
 
-  <!-- Footer -->
   <footer class="site-footer">
     <div class="footer-inner">
-      <div class="footer-left">
-        <span>© 2025 Bee digital growth</span>
-        <span class="footer-dot">·</span>
-        <span>Automatisch aktualisiert · Montags 06:30 UTC</span>
-      </div>
+      <span>© 2026 Bee digital growth — Automatisch aktualisiert jeden Montag</span>
       <div class="footer-links">
         <a href="https://www.simap.ch" target="_blank" rel="noopener">SIMAP.ch ↗</a>
         <a href="https://www.dtvp.de" target="_blank" rel="noopener">DTVP.de ↗</a>
