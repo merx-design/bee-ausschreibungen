@@ -192,6 +192,11 @@ def project_to_tender(project: dict, keyword: str) -> dict | None:
 
         deadline = project.get("relevantDate", "") or project.get("deadline", "")
         published = project.get("publicationDate", "") or project.get("published", "")
+        # Clean non-date sentinel values DTVP uses (e.g. "nv" = nicht vorhanden)
+        if deadline and not any(c.isdigit() for c in deadline):
+            deadline = ""
+        if published and not any(c.isdigit() for c in published):
+            published = ""
         status = get_status(deadline)
         if status == "closed":
             return None
