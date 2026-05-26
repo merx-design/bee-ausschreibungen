@@ -61,23 +61,37 @@ function formatDate(str) {
   }
 }
 
-function getDaysLeft(deadlineStr) {
+function parseDeadline(deadlineStr) {
   if (!deadlineStr) return null;
   try {
-    let d;
     if (deadlineStr.includes(".")) {
       const [day, month, year] = deadlineStr.split(".");
-      d = new Date(`${year}-${month}-${day}`);
-    } else {
-      d = new Date(deadlineStr);
+      const d = new Date(`${year}-${month}-${day}`);
+      return isNaN(d) ? null : d;
     }
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
-    d.setHours(0, 0, 0, 0);
-    return Math.floor((d - today) / 86400000);
+    const d = new Date(deadlineStr);
+    return isNaN(d) ? null : d;
   } catch {
     return null;
   }
+}
+
+function getDaysLeft(deadlineStr) {
+  const d = parseDeadline(deadlineStr);
+  if (!d) return null;
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  d.setHours(0, 0, 0, 0);
+  return Math.floor((d - today) / 86400000);
+}
+
+/** Compute live status from the actual deadline date — ignores JSON status field */
+function liveStatus(tender) {
+  const days = getDaysLeft(tender.deadline);
+  if (days === null) return "open";     // no deadline = assume open
+  if (days < 0)  return "closed";
+  if (days <= 7) return "closing";
+  return "open";
 }
 
 function formatTimestamp(isoStr) {
@@ -127,7 +141,7 @@ function statusText(status, daysLeft) {
 function renderCard(t) {
   const days = getDaysLeft(t.deadline);
   const isUrgent = days !== null && days >= 0 && days <= 7;
-  const status = t.status || "open";
+  const status = liveStatus(t);   // always computed live
 
   const statusLabel = {
     open: "Offen",
@@ -207,15 +221,17 @@ function applyFilters() {
   const q = search.toLowerCase();
 
   state.filtered = state.allTenders.filter(t => {
-    // Always exclude expired tenders — the data shouldn't contain them,
-    // but guard against any that slip through with stale status fields.
-    if (t.status === "closed") return false;
+    // Compute real-time status from deadline — never trust JSON status field
+    const currentStatus = liveStatus(t);
+
+    // Always exclude expired tenders regardless of what the JSON says
+    if (currentStatus === "closed") return false;
 
     if (q && ![t.title, t.description, t.authority, ...(t.categories || [])]
               .some(s => (s || "").toLowerCase().includes(q))) return false;
     if (source !== "all" && t.source !== source) return false;
     if (country !== "all" && t.country !== country) return false;
-    if (status !== "all" && t.status !== status) return false;
+    if (status !== "all" && currentStatus !== status) return false;
     if (categories.size > 0 && !t.categories?.some(c => categories.has(c))) return false;
     return true;
   });
@@ -226,7 +242,7 @@ function sortTenders() {
   state.filtered.sort((a, b) => {
     if (s === "status") {
       const order = { open: 0, closing: 1, closed: 2 };
-      const so = (order[a.status] ?? 3) - (order[b.status] ?? 3);
+      const so = (order[liveStatus(a)] ?? 3) - (order[liveStatus(b)] ?? 3);
       if (so !== 0) return so;
       return (a.deadline || "9999").localeCompare(b.deadline || "9999");
     }
