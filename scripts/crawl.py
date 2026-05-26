@@ -20,35 +20,119 @@ from crawl_simap import scrape_simap
 from crawl_dtvp import scrape_dtvp
 
 
-RELEVANCE_KEYWORDS = [
-    "digitali", "website", "webseite", "web", "cms", "crm", "erp", "pim",
-    "marketing", "design", "app", "applikation", "mobile", "ux", "ui",
-    "online-plattform", "e-commerce", "softwareentwicklung", "sharepoint",
-    "intranet", "portal", "plattform", "it-dienstleistung",
+# ── Strict digital-services-only filter ───────────────────────────────────────
+# A tender must contain at least ONE keyword from DIGITAL_REQUIRE
+# AND must NOT contain any keyword from HARD_EXCLUDE.
+# This ensures only tenders a digital agency (web, CRM, ERP, PIM, UX, etc.)
+# would realistically bid on are included — no document scanning, catering,
+# construction, pharmaceuticals, etc.
+
+DIGITAL_REQUIRE = [
+    # Web
+    "website", "webseite", "webauftritt", "webplattform",
+    "internetpräsenz", "internetauftritt", "online-auftritt",
+    "webanwendung", "webentwicklung", "relaunch",
+    # CMS / Portal
+    "content management", " cms", "cms-", "typo3", "wordpress", "drupal",
+    "intranet", "online-portal", "webportal", "-portal",
+    # CRM
+    " crm", "crm-", "customer relationship", "kundenmanagementsystem",
+    # ERP / SAP
+    " erp", "erp-", " sap", "sap-", "s/4hana", "enterprise resource",
+    # PIM
+    " pim", "pim-", "product information management",
+    # Software dev / IT
+    "softwareentwicklung", "software-entwicklung", "app-entwicklung",
+    "mobile app", "ios-app", "android app",
+    " app ",        # standalone "App" word (e.g. "Stadtwerke App", "Markterkundung App")
+    "appsecurity", "app security", "app-security",
+    "softwarepflege", "softwarewartung", "softwarebetreuung",
+    "it-dienstleistung", "it-system", "it-lösung", "it-infrastruktur",
+    "it-sicherheit", "it-beratung",
+    "schnittstellenmodel", "entwicklungsplattform",
+    "auskunftssystem", "fahrplanauskunft",
+    # UX / UI
+    "user experience", "usability", "ux-design", "ux design",
+    "ui design", "ui-design",
+    # Digital marketing
+    "performance marketing", "social media", "online-marketing",
+    "digital marketing", "digitalmarketing", "seo", "sem ",
+    "suchmaschinenwerbung", "suchmaschinenoptimierung",
+    "content marketing", "leadagentur", "digitale kommunikationskana",
+    # E-commerce
+    "e-commerce", "onlineshop", "online-shop", "webshop",
+    # Cloud / Hosting
+    " hosting", "cloud-dienst", " saas", "saas-", "cdn-plattform", " cdn ",
+    # E-learning
+    "e-learning", "elearning", "lernplattform", " lms",
+    # E-gov / digital platforms
+    "e-government", "digitale verwaltung", "digitale plattform",
+    "online-plattform",
+    # BI / Analytics / Dashboards
+    "business intelligence", " bi-system", "power bi", " dashboard",
+    "datenvisualisierung",
+    # MS enterprise
+    "microsoft dynamics", "dynamics 365", "sharepoint",
+    # Security (digital)
+    "pentest", "websicherheit",
+    # Other digital
+    "corporate design", "digitales design tool", "digital design tool",
+    "digitale transformation", "digital transformation",
+    "digitale kommunikation",
+    "ticketing-system", "ticketingsystem", "kassensystem",
+    "digitalisierung der webseite", "digitalisierung der lagerlogistik",
+    "computergestützte testung", "digital biodiversity learning",
+    "oracle bi", "oracle erp",
 ]
 
-EXCLUDE_KEYWORDS = [
-    "strassenbau", "tiefbau", "hochbau", "reinigung", "catering", "verpflegung",
-    "fahrzeug", "fahrzeugbau", "sanitär", "heizung", "elektroinstallation",
-    "entsorgung", "abfall", "müll", "gebäude", "immobili", "grundstück",
+HARD_EXCLUDE = [
+    # Document scanning (not digital services)
+    "digitalisierung von akten", "digitalisierung von bestands",
+    "digitalisierung von dokument", "digitalisierung historischer",
+    "digitalisierung der ausländer", "digitalisierung und entsorgung",
+    "digitalisierung von papier", "digitalisierung von archiv",
+    "digitalisierung von kku", "digitalisierung bau",
+    "digitalisierung von zeitungen", "digitalisierung von zeichnung",
+    "aktendigitalisierung", "digitalisierung und inputmanagement",
+    # Catering / food
+    "mittagsverpflegung", "schulverpflegung", "verpflegung",
+    "catering", "mensaversorgung",
+    # Construction / civil engineering
+    "straßenbau", "strassenbau", "tiefbau", "hochbau",
+    "neubau ", "anbau ", "umbau ", "erweiterungsneubau",
+    "energetische sanierung", "sanierung des hochwasser",
+    "sanierung feuerlösch", "sanierung klösterl",
+    "dachsanierung", "dachabdichtung",
+    "fliesenarbeiten", "schmutzwasserpumpwerk", "kläranlage",
+    "betonsanierung", "uferwegverlegung", "rückbau rampenbau",
+    "straßenendausbau", "metallbauarbeiten", "tischlerarbeiten",
+    "bodenlegearbeiten", "heizungs- und sanitär",
+    "kunststofffenster", "brandschutztüren", "schleuse schlüs",
+    # Pharmaceuticals
+    "arzneimittel", "rabattvertrag", "wirkstoff",
+    "inhalationslösung", "atemwegsversorgung",
+    # Vehicles / emergency equipment
+    "feuerwehrfahrzeug", "löschgruppenfahrzeug", "rettungswagen",
+    "krankenwagen", "fahrtrage", "beladung für ein",
+    # Environment / outdoor
+    "baumpflegemaßnahmen", "stubbenfräsung", "böschungspflege",
+    "biomasseentsorgung", "klärschlamm", "streusalz",
+    "recycling-kopierpapier",
+    # Events / physical marketing
+    "lichtinszenierung", "sternschnuppenmarkt", "spielgeräteprüfung",
+    # Other non-digital
+    "möblierung", "rf signal generator", "kontrollsysteme av signale",
 ]
 
 
 def is_relevant(tender: dict) -> bool:
-    """Filter to only keep digitalization-related tenders."""
+    """Return True only for genuine digital-service tenders."""
     text = (tender.get("title", "") + " " + tender.get("description", "")).lower()
-
-    # Must have at least one relevance keyword
-    has_relevant = any(kw in text for kw in RELEVANCE_KEYWORDS)
-    if not has_relevant:
+    # Hard exclusions first
+    if any(ex in text for ex in HARD_EXCLUDE):
         return False
-
-    # Must not be primarily an excluded topic
-    exclude_count = sum(1 for kw in EXCLUDE_KEYWORDS if kw in text)
-    if exclude_count >= 2:
-        return False
-
-    return True
+    # Must match at least one digital keyword
+    return any(req in text for req in DIGITAL_REQUIRE)
 
 
 def get_status(deadline_str: str) -> str:

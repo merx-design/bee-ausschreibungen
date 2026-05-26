@@ -108,20 +108,35 @@ function formatTimestamp(isoStr) {
 // ── Render category pills ──────────────────────────────────────────
 function renderCategoryPills() {
   const cats = [...allCategories].sort();
-  catPillsEl.innerHTML = cats.map(cat => `
-    <button class="cat-pill${state.filters.categories.has(cat) ? " active" : ""}"
-            data-cat="${esc(cat)}">${esc(cat)}</button>
-  `).join("");
 
+  // Add any new categories not already in the strip (from actual data)
+  const existing = new Set(
+    [...catPillsEl.querySelectorAll(".cat-pill")].map(b => b.dataset.cat)
+  );
+  cats.forEach(cat => {
+    if (!existing.has(cat)) {
+      const btn = document.createElement("button");
+      btn.className = "cat-pill";
+      btn.dataset.cat = cat;
+      btn.textContent = cat;
+      catPillsEl.appendChild(btn);
+    }
+  });
+
+  // Sync active state and wire up click handlers for all pills
   catPillsEl.querySelectorAll(".cat-pill").forEach(btn => {
-    btn.addEventListener("click", () => {
-      const cat = btn.dataset.cat;
+    btn.classList.toggle("active", state.filters.categories.has(btn.dataset.cat));
+    // Remove old listener by replacing the node clone
+    const fresh = btn.cloneNode(true);
+    btn.replaceWith(fresh);
+    fresh.addEventListener("click", () => {
+      const cat = fresh.dataset.cat;
       if (state.filters.categories.has(cat)) {
         state.filters.categories.delete(cat);
-        btn.classList.remove("active");
+        fresh.classList.remove("active");
       } else {
         state.filters.categories.add(cat);
-        btn.classList.add("active");
+        fresh.classList.add("active");
       }
       applyAndRender();
     });
@@ -352,9 +367,7 @@ window.clearFilter = (key) => {
 };
 window.clearCategory = (cat) => {
   state.filters.categories.delete(cat);
-  catPillsEl.querySelectorAll(".cat-pill").forEach(p => {
-    if (p.dataset.cat === cat) p.classList.remove("active");
-  });
+  catPillsEl.querySelectorAll(".cat-pill").forEach(p => p.classList.toggle("active", state.filters.categories.has(p.dataset.cat)));
   applyAndRender();
 };
 window.resetAll = () => {
@@ -368,6 +381,7 @@ window.resetAll = () => {
     p.classList.toggle("active", p.dataset.value === "all")
   );
   catPillsEl.querySelectorAll(".cat-pill").forEach(p => p.classList.remove("active"));
+  renderCategoryPills();
   applyAndRender();
 };
 
