@@ -132,7 +132,6 @@ function renderCard(t) {
   const statusLabel = {
     open: "Offen",
     closing: "Läuft ab",
-    closed: "Abgelaufen",
   }[status] || "Offen";
 
   const metaItems = [
@@ -208,6 +207,10 @@ function applyFilters() {
   const q = search.toLowerCase();
 
   state.filtered = state.allTenders.filter(t => {
+    // Always exclude expired tenders — the data shouldn't contain them,
+    // but guard against any that slip through with stale status fields.
+    if (t.status === "closed") return false;
+
     if (q && ![t.title, t.description, t.authority, ...(t.categories || [])]
               .some(s => (s || "").toLowerCase().includes(q))) return false;
     if (source !== "all" && t.source !== source) return false;

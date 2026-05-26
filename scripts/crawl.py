@@ -7,7 +7,7 @@ Preserves existing seed/sample data for any IDs not returned by scrapers.
 import json
 import os
 import sys
-from datetime import datetime, date, timedelta
+from datetime import datetime, date
 from pathlib import Path
 
 # Allow running from any directory
@@ -136,26 +136,14 @@ def main():
     for tender in relevant:
         merged[tender["id"]] = normalize(tender)
 
-    # Remove very old closed tenders (> 90 days past deadline)
-    cutoff = date.today() - timedelta(days=90)
-    final = {}
-    for tid, tender in merged.items():
-        deadline = tender.get("deadline", "")
-        keep = True
-        if deadline and tender.get("status") == "closed":
-            try:
-                if "." in deadline:
-                    parts = deadline.split(".")
-                    d = date(int(parts[2]), int(parts[1]), int(parts[0]))
-                else:
-                    from dateutil.parser import parse as dateparse
-                    d = dateparse(deadline).date()
-                if d < cutoff:
-                    keep = False
-            except Exception:
-                pass
-        if keep:
-            final[tid] = tender
+    # Only keep current tenders (open or closing) — discard anything past deadline
+    final = {
+        tid: t for tid, t in merged.items()
+        if t.get("status") != "closed"
+    }
+    dropped = len(merged) - len(final)
+    if dropped:
+        print(f"[INFO] Dropped {dropped} expired tenders (deadline passed)")
 
     # Sort: open first, then by deadline ascending
     def sort_key(t):
