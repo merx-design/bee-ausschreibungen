@@ -83,7 +83,6 @@ body {
 }
 
 .header-brand { display: flex; align-items: center; gap: 12px; }
-.brand-icon { width: 28px; height: 28px; flex-shrink: 0; }
 .brand-text { display: flex; flex-direction: column; gap: 1px; }
 .brand-name {
   font-size: 15px; font-weight: 700;
