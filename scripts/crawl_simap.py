@@ -104,7 +104,12 @@ def parse_row(row, keyword: str) -> dict | None:
         if not title or len(title) < 5:
             return None
 
-        full_url = BASE_URL + href if href.startswith("/") else href or SEARCH_URL
+        if href and href.startswith("/"):
+            full_url = BASE_URL + href
+        elif href and href.startswith("http"):
+            full_url = href
+        else:
+            full_url = f"{SEARCH_URL}?SIMAP_COMMON_FIELD_LANGUAGE=DE&SIMAP_COMMON_FIELD_PROJECT_TITLE={requests.utils.quote(title[:60])}"
 
         # Extract cells — SIMAP column order varies but typically:
         # [notice_no, date, title_link, authority, procedure, deadline]
@@ -160,7 +165,12 @@ def parse_article(article, keyword: str) -> dict | None:
             return None
 
         href = link["href"] if link else ""
-        full_url = BASE_URL + href if href.startswith("/") else href or SEARCH_URL
+        if href and href.startswith("/"):
+            full_url = BASE_URL + href
+        elif href and href.startswith("http"):
+            full_url = href
+        else:
+            full_url = f"{SEARCH_URL}?SIMAP_COMMON_FIELD_LANGUAGE=DE&SIMAP_COMMON_FIELD_PROJECT_TITLE={requests.utils.quote(title[:60])}"
 
         text = article.get_text(" ", strip=True)
         date_pattern = re.compile(r"\d{2}\.\d{2}\.\d{4}")
