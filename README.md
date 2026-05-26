@@ -1,10 +1,12 @@
-# Ausschreibungen — merx design Vergabe-Monitor
+# Ausschreibungen — Bee digital growth Vergabe-Monitor
 
 Automatisches Monitoring von öffentlichen Ausschreibungen aus Deutschland und der Schweiz — speziell für Projekte im Bereich **Digitalisierung, Web, CRM, ERP, PIM, Marketing, Design und Apps**.
 
 ## Live-Website
 
 **→ [merx-design.github.io/ausschreibungen](https://merx-design.github.io/ausschreibungen)**
+
+> *(URL reflects the GitHub org — content is for Bee digital growth)*
 
 ## Quellen
 
@@ -62,4 +64,4 @@ ausschreibungen/
 
 ---
 
-Made with ♥ by [merx design](https://merx-design.com)
+Made with ♥ by [Bee digital growth](https://bee-digital-growth.com)

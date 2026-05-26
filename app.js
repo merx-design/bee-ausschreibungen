@@ -1,5 +1,5 @@
 /* ================================================================
-   Ausschreibungen — merx design — app.js
+   Ausschreibungen — Bee digital growth — app.js
    ================================================================ */
 
 "use strict";

@@ -50,7 +50,7 @@ jobs:
         if: steps.changes.outputs.changed == 'true'
         run: |
           git config user.name "Tender Bot"
-          git config user.email "bot@merx-design.com"
+          git config user.email "bot@bee-digital-growth.com"
           git add data/tenders.json
           TENDER_COUNT=$(python3 -c "import json; d=json.load(open('data/tenders.json')); print(d['total'])")
           git commit -m "chore: weekly tender update — ${TENDER_COUNT} Ausschreibungen ($(date +%Y-%m-%d))"
