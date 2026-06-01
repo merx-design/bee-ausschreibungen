@@ -1,96 +1,11 @@
 {
-  "updated": "2026-05-26T09:41:24.627867+00:00",
-  "total": 48,
+  "updated": "2026-06-01T12:19:09.904964Z",
+  "total": 56,
   "sources": {
-    "dtvp": 48
+    "simap": 0,
+    "dtvp": 56
   },
   "tenders": [
-    {
-      "id": "dtvp-bfabcdcb7e",
-      "title": "Website und Unternehmenskommunikation",
-      "description": "Website und Unternehmenskommunikation",
-      "authority": "Stiftung Unabhängige Patientenberatung Deutschland",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "18.06.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2516833",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-a80155f547",
-      "title": "Relaunch der Internetpräsenz des Bezirksverband Pfalz",
-      "description": "Relaunch der Internetpräsenz des Bezirksverband Pfalz",
-      "authority": "Bezirksverband Pfalz",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "03.06.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2515826",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-88277cc65e",
-      "title": "ECMS-Services für GTAI: Hosting, Weiterentwicklung und Betreuung",
-      "description": "ECMS-Services für GTAI: Hosting, Weiterentwicklung und Betreuung",
-      "authority": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "02.06.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2504883",
-      "value": null,
-      "status": "closing"
-    },
-    {
-      "id": "dtvp-d2bf1125ca",
-      "title": "Hessisches Kulturgut-Portal",
-      "description": "Hessisches Kulturgut-Portal",
-      "authority": "Philipps-Universität Marburg",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "05.06.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2518229",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-a5a6784cd7",
-      "title": "Rahmenvertrag für Digitalisierung der Webseite",
-      "description": "Rahmenvertrag für Digitalisierung der Webseite",
-      "authority": "WBM Wohnungsbaugesellschaft Berlin-Mitte mbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "27.05.2026",
-      "categories": [
-        "Website",
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2500417",
-      "value": null,
-      "status": "closing"
-    },
     {
       "id": "dtvp-52c43d6907",
       "title": "Bibliotheks-Website mit Content Management System und Discovery System auf Basis von VuFind mit Bestell- und Kontofunktionen",
@@ -105,315 +20,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2413426",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-24f79ab107",
-      "title": "IT-Sicherheit - Schutz von Webseiten (SaS)",
-      "description": "IT-Sicherheit - Schutz von Webseiten (SaS)",
-      "authority": "Klassik Stiftung Weimar",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "17.06.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2519354",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-9cb43c1987",
-      "title": "IQB - Entwicklung von Grafiken für die computergestützte Testung in den Fächern Bio-logie, Chemie, Physik, Mathematik, Deutsch, Englisch und Französisch der Sekundarstufe I",
-      "description": "IQB - Entwicklung von Grafiken für die computergestützte Testung in den Fächern Bio-logie, Chemie, Physik, Mathematik, Deutsch, Englisch und Französisch der Sekundarstufe I",
-      "authority": "Institut zur Qualitätsentwicklung im Bildungswesen - Wissenschaftliche Einrichtung der Länder an der Humboldt-Universität zu Berlin e.V.",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "10.06.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2512755",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-414a0f0689",
-      "title": "CDN-Plattform zur Auslieferung von AV-Inhalten sowie Webseiten im Internet in drei Losen",
-      "description": "CDN-Plattform zur Auslieferung von AV-Inhalten sowie Webseiten im Internet in drei Losen",
-      "authority": "Westdeutscher Rundfunk Köln",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "12.06.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2514163",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-2e796484e5",
-      "title": "SUPPORT, WARTUNG UND (WEITER-)ENTWICKLUNG VON WEBSEITEN DES VZBV AB 2027 BIS MAX. ENDE 2030",
-      "description": "SUPPORT, WARTUNG UND (WEITER-)ENTWICKLUNG VON WEBSEITEN DES VZBV AB 2027 BIS MAX. ENDE 2030",
-      "authority": "Verbraucherzentrale Bundesverband e.V.",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "29.06.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2519128",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-5bce87fe8e",
-      "title": "Leistungen zu Websitebetrieb, -entwicklung und Support der   visitBerlin Websites convention.visitBerlin.de, about.visitBerlin.de sowie   berlin-health-excellence.com",
-      "description": "Leistungen zu Websitebetrieb, -entwicklung und Support der   visitBerlin Websites convention.visitBerlin.de, about.visitBerlin.de sowie   berlin-health-excellence.com",
-      "authority": "Berlin Tourismus & Kongress GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "29.05.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2496258",
-      "value": null,
-      "status": "closing"
-    },
-    {
-      "id": "dtvp-2c3bb403e3",
-      "title": "Zur Digitalisierung der Lagerlogistik und Implementierung eines Anlageninventursystems auf Workflowbasis",
-      "description": "Zur Digitalisierung der Lagerlogistik und Implementierung eines Anlageninventursystems auf Workflowbasis",
-      "authority": "GSI Helmholtzzentrum für Schwerionenforschung GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "25.06.2026",
-      "categories": [
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2511354",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-cf25a18cab",
-      "title": "Wartung, Pflege und Weiterentwicklung der Fachanwendungen ZKV und ZWS auf Basis Microsoft Dynamics 365 CRM",
-      "description": "Wartung, Pflege und Weiterentwicklung der Fachanwendungen ZKV und ZWS auf Basis Microsoft Dynamics 365 CRM",
-      "authority": "Bundesnetzagentur",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "05.06.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2507130",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-ce65a1cc45",
-      "title": "Einführung Microsoft Dynamics 365 - CRM / Kundenservice / Vertrieb / Copilot-Integration",
-      "description": "Einführung Microsoft Dynamics 365 - CRM / Kundenservice / Vertrieb / Copilot-Integration",
-      "authority": "Stadtwerke Emden GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "01.06.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2506149",
-      "value": null,
-      "status": "closing"
-    },
-    {
-      "id": "dtvp-451c08591f",
-      "title": "Einführung Microsoft Dynamics 365 - CRM / Kundenservice / Vertrieb / Copilot-Integration",
-      "description": "Einführung Microsoft Dynamics 365 - CRM / Kundenservice / Vertrieb / Copilot-Integration",
-      "authority": "Stadtwerke Emden GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "01.06.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2518898",
-      "value": null,
-      "status": "closing"
-    },
-    {
-      "id": "dtvp-b3638af33e",
-      "title": "Personaldienstleistungen und Softwarepflegeleistungen im cobra CRM-Umfeld",
-      "description": "Personaldienstleistungen und Softwarepflegeleistungen im cobra CRM-Umfeld",
-      "authority": "KfW Bankengruppe",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "11.06.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2513721",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-ce2a54ec52",
-      "title": "Rahmenvertrag Bereitstellung und Betrieb einer Microsoft Dynamics 365 CRM-Applikation für die AHKs",
-      "description": "Rahmenvertrag Bereitstellung und Betrieb einer Microsoft Dynamics 365 CRM-Applikation für die AHKs",
-      "authority": "DIHK DEinternational GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "28.05.2026",
-      "categories": [
-        "CRM",
-        "App"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2503014",
-      "value": null,
-      "status": "closing"
-    },
-    {
-      "id": "dtvp-09ec89ba29",
-      "title": "Rahmenvertrag E-Commerce-Beratung und Serviceleistungen",
-      "description": "Rahmenvertrag E-Commerce-Beratung und Serviceleistungen",
-      "authority": "Goethe-Institut e.V. - Zentrale",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "24.06.2026",
-      "categories": [
-        "CRM",
-        "Digitalisierung",
-        "E-Commerce"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2516870",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-b64899a44b",
-      "title": "CRM-System mit KI-Integration (Power-Caro-CRM)",
-      "description": "CRM-System mit KI-Integration (Power-Caro-CRM)",
-      "authority": "Nordseebad Carolinensiel-Harlesiel GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "03.06.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2499480",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-171f0363f7",
-      "title": "CRM/CX Lösung",
-      "description": "CRM/CX Lösung",
-      "authority": "NRW.BANK AöR",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "22.06.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2519451",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-050b08edf3",
-      "title": "Neues Kassensystem / Ticketing Wilhelma",
-      "description": "Neues Kassensystem / Ticketing Wilhelma",
-      "authority": "Wilhelma Zoologisch-Botanischer Garten Stuttgart",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "08.06.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2510229",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-e7b8f3c83a",
-      "title": "Dashboard (Power-Caro-BI)",
-      "description": "Dashboard (Power-Caro-BI)",
-      "authority": "Nordseebad Carolinensiel-Harlesiel GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "03.06.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2499479",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-8996ef7cdb",
-      "title": "ERP und Managed Secure Workplace für die AVL GmbH",
-      "description": "ERP und Managed Secure Workplace für die AVL GmbH",
-      "authority": "Abfallverwertungsgesellschaft des Landkreises Ludwigsburg mbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "01.06.2026",
-      "categories": [
-        "ERP"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2501591",
-      "value": null,
-      "status": "closing"
-    },
-    {
-      "id": "dtvp-26397aaacf",
-      "title": "Betrieb SAP S/4HANA und ERP-Systeme 2027 bis 2031: Hosting, Wartung und Weiterentwicklung unserer SAP-Umgebung für 4 Jahre",
-      "description": "Betrieb SAP S/4HANA und ERP-Systeme 2027 bis 2031: Hosting, Wartung und Weiterentwicklung unserer SAP-Umgebung für 4 Jahre",
-      "authority": "HA Hessen Agentur GmbH,  Zentrale Beschaffung",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "22.06.2026",
-      "categories": [
-        "ERP"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2518537",
       "value": null,
       "status": "open"
     },
@@ -470,58 +76,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-55b281bb24",
-      "title": "Landesgartenschau 2027 Neustadt an der Weinstraße - Performance Marketing",
-      "description": "Landesgartenschau 2027 Neustadt an der Weinstraße - Performance Marketing",
-      "authority": "Stadt Neustadt an der Weinstraße für die Landesgartenschau 2027 Neustadt an der Weinstraße gGmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "15.06.2026",
-      "categories": [
-        "Marketing"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2514859",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-d0fb6d247f",
-      "title": "Rahmenvereinbarung Performance Marketing Agentur",
-      "description": "Rahmenvereinbarung Performance Marketing Agentur",
-      "authority": "Deutsches Rotes Kreuz e.V. Generalsekretariat",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "09.06.2026",
-      "categories": [
-        "Marketing"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2513918",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-6fb13ef8ff",
-      "title": "Leadagentur Content-Publishing und digitale Kommunikationskanäle",
-      "description": "Leadagentur Content-Publishing und digitale Kommunikationskanäle",
-      "authority": "AOK Rheinland/Hamburg - Die Gesundheitskasse",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "19.06.2026",
-      "categories": [
-        "Marketing",
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2515883",
-      "value": null,
-      "status": "open"
-    },
-    {
       "id": "dtvp-a2435d1431",
       "title": "Digitales Design Tool",
       "description": "Digitales Design Tool",
@@ -540,23 +94,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-fc1eafc2ff",
-      "title": "Corporate Design Hamburg",
-      "description": "Corporate Design Hamburg",
-      "authority": "Hamburg Marketing GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "29.05.2026",
-      "categories": [
-        "Design"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2499557",
-      "value": null,
-      "status": "closing"
-    },
-    {
       "id": "dtvp-118a5afa2d",
       "title": "Markterkundung App Gewichtsreduktion",
       "description": "Markterkundung App Gewichtsreduktion",
@@ -570,58 +107,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2508877",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-59006338ea",
-      "title": "Markterkundung Stadtwerke App",
-      "description": "Markterkundung Stadtwerke App",
-      "authority": "Stadtwerke Bernau GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "05.06.2026",
-      "categories": [
-        "App"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2517158",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-3c556c44be",
-      "title": "AppSecurity-Expertentest",
-      "description": "AppSecurity-Expertentest",
-      "authority": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "19.06.2026",
-      "categories": [
-        "App"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2517528",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-55284ef155",
-      "title": "Consultancy for the Implementation of Digital Biodiversity Learning and Training Solutions",
-      "description": "Consultancy for the Implementation of Digital Biodiversity Learning and Training Solutions",
-      "authority": "NABU (Naturschutzbund) e.V.",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "14.06.2026",
-      "categories": [
-        "App",
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2518227",
       "value": null,
       "status": "open"
     },
@@ -677,6 +162,40 @@
       "status": "open"
     },
     {
+      "id": "dtvp-9a1a6d47fc",
+      "title": "Schrittweises Update und Anpassungen der TH Wildau Website von der Typo3-Version 10.4 auf die Version 12.4",
+      "description": "Schrittweises Update und Anpassungen der TH Wildau Website von der Typo3-Version 10.4 auf die Version 12.4",
+      "authority": "Technische Hochschule Wildau",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2522803",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-79ee046820",
+      "title": "Externe Projektleitung für KONSENS Softwareentwicklungsprojekte",
+      "description": "Externe Projektleitung für KONSENS Softwareentwicklungsprojekte",
+      "authority": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "08.12.2028",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2137025",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-b5600bd10f",
       "title": "IM - Softwareentwicklung - Grundlagen der Programmierung - Online",
       "description": "IM - Softwareentwicklung - Grundlagen der Programmierung - Online",
@@ -694,53 +213,295 @@
       "status": "open"
     },
     {
-      "id": "dtvp-e868fca5a4",
-      "title": "Rahmenvertrag für Dienstleistungen im Rahmen der Softwareentwicklung ORACLE und ORACLE BI",
-      "description": "Rahmenvertrag für Dienstleistungen im Rahmen der Softwareentwicklung ORACLE und ORACLE BI",
-      "authority": "Informationstechnikzentrum Bund (ITZBund)",
+      "id": "dtvp-7a738139c5",
+      "title": "Vergabeverfahren - DZSF - Fachplanung Umwelt-Natur-Artenschutz, Erprobungs-Schallschutzwand Walddrehna",
+      "description": "Vergabeverfahren - DZSF - Fachplanung Umwelt-Natur-Artenschutz, Erprobungs-Schallschutzwand Walddrehna",
+      "authority": "Eisenbahn-Bundesamt",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "01.06.2026",
+      "deadline": "09.06.2026",
       "categories": [
-        "Digitalisierung"
+        "ERP"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2506152",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2499423",
       "value": null,
-      "status": "closing"
+      "status": "open"
     },
     {
-      "id": "dtvp-ae9a3453cf",
-      "title": "Rahmenvertrag für die Bereitstellung einer infrastrukturagnostischen internen Entwicklungsplattform",
-      "description": "Rahmenvertrag für die Bereitstellung einer infrastrukturagnostischen internen Entwicklungsplattform",
-      "authority": "Informationstechnikzentrum Bund (ITZBund)",
+      "id": "dtvp-9cb43c1987",
+      "title": "IQB - Entwicklung von Grafiken für die computergestützte Testung in den Fächern Bio-logie, Chemie, Physik, Mathematik, Deutsch, Englisch und Französisch der Sekundarstufe I",
+      "description": "IQB - Entwicklung von Grafiken für die computergestützte Testung in den Fächern Bio-logie, Chemie, Physik, Mathematik, Deutsch, Englisch und Französisch der Sekundarstufe I",
+      "authority": "Institut zur Qualitätsentwicklung im Bildungswesen - Wissenschaftliche Einrichtung der Länder an der Humboldt-Universität zu Berlin e.V.",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "01.06.2026",
+      "deadline": "10.06.2026",
       "categories": [
-        "Digitalisierung"
+        "Website"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2505105",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2512755",
       "value": null,
-      "status": "closing"
+      "status": "open"
     },
     {
-      "id": "dtvp-0f903388b1",
-      "title": "Rahmenvertrag für die Bereitstellung einer infrastrukturagnostischen internen Entwicklungsplattform",
-      "description": "Rahmenvertrag für die Bereitstellung einer infrastrukturagnostischen internen Entwicklungsplattform",
-      "authority": "Informationstechnikzentrum Bund (ITZBund)",
+      "id": "dtvp-b3638af33e",
+      "title": "Personaldienstleistungen und Softwarepflegeleistungen im cobra CRM-Umfeld",
+      "description": "Personaldienstleistungen und Softwarepflegeleistungen im cobra CRM-Umfeld",
+      "authority": "KfW Bankengruppe",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "08.06.2026",
+      "deadline": "11.06.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2513721",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-414a0f0689",
+      "title": "CDN-Plattform zur Auslieferung von AV-Inhalten sowie Webseiten im Internet in drei Losen",
+      "description": "CDN-Plattform zur Auslieferung von AV-Inhalten sowie Webseiten im Internet in drei Losen",
+      "authority": "Westdeutscher Rundfunk Köln",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "12.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2514163",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-55284ef155",
+      "title": "Consultancy for the Implementation of Digital Biodiversity Learning and Training Solutions",
+      "description": "Consultancy for the Implementation of Digital Biodiversity Learning and Training Solutions",
+      "authority": "NABU (Naturschutzbund) e.V.",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "14.06.2026",
+      "categories": [
+        "App",
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2518227",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-42346ee0b7",
+      "title": "Upgrade und Wartung eines Website CMS",
+      "description": "Upgrade und Wartung eines Website CMS",
+      "authority": "Leibniz-Institut für Raumbezogene Sozialforschung",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "14.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2524037",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-55b281bb24",
+      "title": "Landesgartenschau 2027 Neustadt an der Weinstraße - Performance Marketing",
+      "description": "Landesgartenschau 2027 Neustadt an der Weinstraße - Performance Marketing",
+      "authority": "Stadt Neustadt an der Weinstraße für die Landesgartenschau 2027 Neustadt an der Weinstraße gGmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "15.06.2026",
+      "categories": [
+        "Marketing"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2514859",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-d0fb6d247f",
+      "title": "Rahmenvereinbarung Performance Marketing Agentur",
+      "description": "Rahmenvereinbarung Performance Marketing Agentur",
+      "authority": "Deutsches Rotes Kreuz e.V. Generalsekretariat",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.06.2026",
+      "categories": [
+        "Marketing"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2513918",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-902fa4ed37",
+      "title": "Rahmenvertrag über die Erstellung von Animationsvideos für Websites und soziale Medien der Landeszentrale für politische Bildung Nordrhein-Westfalen",
+      "description": "Rahmenvertrag über die Erstellung von Animationsvideos für Websites und soziale Medien der Landeszentrale für politische Bildung Nordrhein-Westfalen",
+      "authority": "Landeszentrale für politische Bildung Nordrhein-Westfalen, teilrechtsfähige Anstalt des öffentlichen Rechts bei dem Präsidenten des Landtags NRW",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2519476",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-24f79ab107",
+      "title": "IT-Sicherheit - Schutz von Webseiten (SaS)",
+      "description": "IT-Sicherheit - Schutz von Webseiten (SaS)",
+      "authority": "Klassik Stiftung Weimar",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "17.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2519354",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-bfabcdcb7e",
+      "title": "Website und Unternehmenskommunikation",
+      "description": "Website und Unternehmenskommunikation",
+      "authority": "Stiftung Unabhängige Patientenberatung Deutschland",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "18.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2516833",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-6fb13ef8ff",
+      "title": "Leadagentur Content-Publishing und digitale Kommunikationskanäle",
+      "description": "Leadagentur Content-Publishing und digitale Kommunikationskanäle",
+      "authority": "AOK Rheinland/Hamburg - Die Gesundheitskasse",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "19.06.2026",
+      "categories": [
+        "Marketing",
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2515883",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-3c556c44be",
+      "title": "AppSecurity-Expertentest",
+      "description": "AppSecurity-Expertentest",
+      "authority": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "19.06.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2517528",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-171f0363f7",
+      "title": "CRM/CX Lösung",
+      "description": "CRM/CX Lösung",
+      "authority": "NRW.BANK AöR",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "22.06.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2519451",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-26397aaacf",
+      "title": "Betrieb SAP S/4HANA und ERP-Systeme 2027 bis 2031: Hosting, Wartung und Weiterentwicklung unserer SAP-Umgebung für 4 Jahre",
+      "description": "Betrieb SAP S/4HANA und ERP-Systeme 2027 bis 2031: Hosting, Wartung und Weiterentwicklung unserer SAP-Umgebung für 4 Jahre",
+      "authority": "HA Hessen Agentur GmbH,  Zentrale Beschaffung",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "22.06.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2518537",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-683ba3387a",
+      "title": "Beschaffung von Entwicklungsleistungen für die Digitalisierung der akademischen Verwaltung  auf Basis des  koellisch-toolkit/koellisch-core-framework  auf Microsoft Office365/Sharepoint",
+      "description": "Beschaffung von Entwicklungsleistungen für die Digitalisierung der akademischen Verwaltung  auf Basis des  koellisch-toolkit/koellisch-core-framework  auf Microsoft Office365/Sharepoint",
+      "authority": "Medizinische Universität Lausitz - Carl Thiem KdöR",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "22.06.2026",
       "categories": [
         "Digitalisierung"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2514494",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2516169",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-09ec89ba29",
+      "title": "Rahmenvertrag E-Commerce-Beratung und Serviceleistungen",
+      "description": "Rahmenvertrag E-Commerce-Beratung und Serviceleistungen",
+      "authority": "Goethe-Institut e.V. - Zentrale",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "24.06.2026",
+      "categories": [
+        "CRM",
+        "Digitalisierung",
+        "E-Commerce"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2516870",
       "value": null,
       "status": "open"
     },
@@ -762,19 +523,87 @@
       "status": "open"
     },
     {
-      "id": "dtvp-79ee046820",
-      "title": "Externe Projektleitung für KONSENS Softwareentwicklungsprojekte",
-      "description": "Externe Projektleitung für KONSENS Softwareentwicklungsprojekte",
-      "authority": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern",
+      "id": "dtvp-2c3bb403e3",
+      "title": "Zur Digitalisierung der Lagerlogistik und Implementierung eines Anlageninventursystems auf Workflowbasis",
+      "description": "Zur Digitalisierung der Lagerlogistik und Implementierung eines Anlageninventursystems auf Workflowbasis",
+      "authority": "GSI Helmholtzzentrum für Schwerionenforschung GmbH",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "08.12.2028",
+      "deadline": "25.06.2026",
       "categories": [
         "Digitalisierung"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2137025",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2511354",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-ce43eab28f",
+      "title": "Hosting, Betreuung und Weiterentwicklung  BGE-Website",
+      "description": "Hosting, Betreuung und Weiterentwicklung  BGE-Website",
+      "authority": "Bundesgesellschaft für Endlagerung mbH (BGE)",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "26.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2524526",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-2e796484e5",
+      "title": "SUPPORT, WARTUNG UND (WEITER-)ENTWICKLUNG VON WEBSEITEN DES VZBV AB 2027 BIS MAX. ENDE 2030",
+      "description": "SUPPORT, WARTUNG UND (WEITER-)ENTWICKLUNG VON WEBSEITEN DES VZBV AB 2027 BIS MAX. ENDE 2030",
+      "authority": "Verbraucherzentrale Bundesverband e.V.",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "29.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2519128",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-19ebb1b603",
+      "title": "\"Website-Entwicklung, Support und Weiterentwicklung von Formaten und Inhalten Demokratiezentrum NRW",
+      "description": "\"Website-Entwicklung, Support und Weiterentwicklung von Formaten und Inhalten Demokratiezentrum NRW",
+      "authority": "Landeszentrale für politische Bildung Nordrhein-Westfalen, teilrechtsfähige Anstalt des öffentlichen Rechts bei dem Präsidenten des Landtags NRW",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "30.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2524961",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-fe0e76be98",
+      "title": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
+      "description": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
+      "authority": "Universität Hamburg",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "30.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2524579",
       "value": null,
       "status": "open"
     },
@@ -813,6 +642,244 @@
       "status": "open"
     },
     {
+      "id": "dtvp-ce65a1cc45",
+      "title": "Einführung Microsoft Dynamics 365 - CRM / Kundenservice / Vertrieb / Copilot-Integration",
+      "description": "Einführung Microsoft Dynamics 365 - CRM / Kundenservice / Vertrieb / Copilot-Integration",
+      "authority": "Stadtwerke Emden GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "01.06.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2506149",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-451c08591f",
+      "title": "Einführung Microsoft Dynamics 365 - CRM / Kundenservice / Vertrieb / Copilot-Integration",
+      "description": "Einführung Microsoft Dynamics 365 - CRM / Kundenservice / Vertrieb / Copilot-Integration",
+      "authority": "Stadtwerke Emden GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "01.06.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2518898",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-e868fca5a4",
+      "title": "Rahmenvertrag für Dienstleistungen im Rahmen der Softwareentwicklung ORACLE und ORACLE BI",
+      "description": "Rahmenvertrag für Dienstleistungen im Rahmen der Softwareentwicklung ORACLE und ORACLE BI",
+      "authority": "Informationstechnikzentrum Bund (ITZBund)",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "01.06.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2506152",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-ae9a3453cf",
+      "title": "Rahmenvertrag für die Bereitstellung einer infrastrukturagnostischen internen Entwicklungsplattform",
+      "description": "Rahmenvertrag für die Bereitstellung einer infrastrukturagnostischen internen Entwicklungsplattform",
+      "authority": "Informationstechnikzentrum Bund (ITZBund)",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "01.06.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2505105",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-88277cc65e",
+      "title": "ECMS-Services für GTAI: Hosting, Weiterentwicklung und Betreuung",
+      "description": "ECMS-Services für GTAI: Hosting, Weiterentwicklung und Betreuung",
+      "authority": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "02.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2504883",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-a80155f547",
+      "title": "Relaunch der Internetpräsenz des Bezirksverband Pfalz",
+      "description": "Relaunch der Internetpräsenz des Bezirksverband Pfalz",
+      "authority": "Bezirksverband Pfalz",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "03.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2515826",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-b64899a44b",
+      "title": "CRM-System mit KI-Integration (Power-Caro-CRM)",
+      "description": "CRM-System mit KI-Integration (Power-Caro-CRM)",
+      "authority": "Nordseebad Carolinensiel-Harlesiel GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "03.06.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2499480",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-e7b8f3c83a",
+      "title": "Dashboard (Power-Caro-BI)",
+      "description": "Dashboard (Power-Caro-BI)",
+      "authority": "Nordseebad Carolinensiel-Harlesiel GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "03.06.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2499479",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-d2bf1125ca",
+      "title": "Hessisches Kulturgut-Portal",
+      "description": "Hessisches Kulturgut-Portal",
+      "authority": "Philipps-Universität Marburg",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "05.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2518229",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-cf25a18cab",
+      "title": "Wartung, Pflege und Weiterentwicklung der Fachanwendungen ZKV und ZWS auf Basis Microsoft Dynamics 365 CRM",
+      "description": "Wartung, Pflege und Weiterentwicklung der Fachanwendungen ZKV und ZWS auf Basis Microsoft Dynamics 365 CRM",
+      "authority": "Bundesnetzagentur",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "05.06.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2507130",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-8996ef7cdb",
+      "title": "ERP und Managed Secure Workplace für die AVL GmbH",
+      "description": "ERP und Managed Secure Workplace für die AVL GmbH",
+      "authority": "Abfallverwertungsgesellschaft des Landkreises Ludwigsburg mbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "05.06.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2501591",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-59006338ea",
+      "title": "Markterkundung Stadtwerke App",
+      "description": "Markterkundung Stadtwerke App",
+      "authority": "Stadtwerke Bernau GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "05.06.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2517158",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-050b08edf3",
+      "title": "Neues Kassensystem / Ticketing Wilhelma",
+      "description": "Neues Kassensystem / Ticketing Wilhelma",
+      "authority": "Wilhelma Zoologisch-Botanischer Garten Stuttgart",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "08.06.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2510229",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-0f903388b1",
+      "title": "Rahmenvertrag für die Bereitstellung einer infrastrukturagnostischen internen Entwicklungsplattform",
+      "description": "Rahmenvertrag für die Bereitstellung einer infrastrukturagnostischen internen Entwicklungsplattform",
+      "authority": "Informationstechnikzentrum Bund (ITZBund)",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "08.06.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2514494",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-b1b6537c01",
       "title": "Software-Audit und Pentest der im Rahmen des LaDaDi-ProDi-Projekts erstellten Software",
       "description": "Software-Audit und Pentest der im Rahmen des LaDaDi-ProDi-Projekts erstellten Software",
@@ -827,7 +894,77 @@
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2508512",
       "value": null,
-      "status": "open"
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-a5a6784cd7",
+      "title": "Rahmenvertrag für Digitalisierung der Webseite",
+      "description": "Rahmenvertrag für Digitalisierung der Webseite",
+      "authority": "WBM Wohnungsbaugesellschaft Berlin-Mitte mbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "27.05.2026",
+      "categories": [
+        "Website",
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2500417",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-ce2a54ec52",
+      "title": "Rahmenvertrag Bereitstellung und Betrieb einer Microsoft Dynamics 365 CRM-Applikation für die AHKs",
+      "description": "Rahmenvertrag Bereitstellung und Betrieb einer Microsoft Dynamics 365 CRM-Applikation für die AHKs",
+      "authority": "DIHK DEinternational GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "28.05.2026",
+      "categories": [
+        "CRM",
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2503014",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-5bce87fe8e",
+      "title": "Leistungen zu Websitebetrieb, -entwicklung und Support der   visitBerlin Websites convention.visitBerlin.de, about.visitBerlin.de sowie   berlin-health-excellence.com",
+      "description": "Leistungen zu Websitebetrieb, -entwicklung und Support der   visitBerlin Websites convention.visitBerlin.de, about.visitBerlin.de sowie   berlin-health-excellence.com",
+      "authority": "Berlin Tourismus & Kongress GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "29.05.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2496258",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-fc1eafc2ff",
+      "title": "Corporate Design Hamburg",
+      "description": "Corporate Design Hamburg",
+      "authority": "Hamburg Marketing GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "29.05.2026",
+      "categories": [
+        "Design"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2499557",
+      "value": null,
+      "status": "closing"
     }
   ]
 }
