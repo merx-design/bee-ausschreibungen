@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-15T12:50:31.055763Z",
-  "total": 68,
+  "updated": "2026-06-22T12:34:01.796074Z",
+  "total": 79,
   "sources": {
     "simap": 0,
-    "dtvp": 68
+    "dtvp": 79
   },
   "tenders": [
     {
@@ -317,6 +317,108 @@
       "status": "open"
     },
     {
+      "id": "dtvp-a5d3f986fa",
+      "title": "Entwicklung und Programmierung einer Website im Rahmen des Projekts Empowering Media Literacy (EML)",
+      "description": "Entwicklung und Programmierung einer Website im Rahmen des Projekts Empowering Media Literacy (EML)",
+      "authority": "tim | Staatliches Textil- und Industriemuseum Augsburg",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "13.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2537468",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-98a244a11a",
+      "title": "Rahmenvereinbarung Webseitenpflege",
+      "description": "Rahmenvereinbarung Webseitenpflege",
+      "authority": "Stiftung Humboldt Forum im Berliner Schloss",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "13.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2539205",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-936a8faba3",
+      "title": "Pflegeleistungen und Weiterentwicklung der App lebensmittelwarnung.de",
+      "description": "Pflegeleistungen und Weiterentwicklung der App lebensmittelwarnung.de",
+      "authority": "Bundesanstalt für Landwirtschaft und Ernährung",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "13.07.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2536656",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-95829237a9",
+      "title": "Rahmenvereinbarungen IT-Dienstleistungen 2027ff.",
+      "description": "Rahmenvereinbarungen IT-Dienstleistungen 2027ff.",
+      "authority": "DFS Deutsche Flugsicherung GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "13.07.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2536065",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-8861bc4d8d",
+      "title": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
+      "description": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
+      "authority": "Universität Hamburg",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "14.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2540826",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-c4aafcc02d",
+      "title": "Markenstrategie, Kommunikation und Website (07/MA/2026)",
+      "description": "Markenstrategie, Kommunikation und Website (07/MA/2026)",
+      "authority": "IKK classic",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "15.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2536475",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-bb8e01b15b",
       "title": "Rahmenvereinbarung Leadagentur Mediastrategie und Mediaplanung",
       "description": "Rahmenvereinbarung Leadagentur Mediastrategie und Mediaplanung",
@@ -334,21 +436,89 @@
       "status": "open"
     },
     {
-      "id": "dtvp-09ec89ba29",
-      "title": "Rahmenvertrag E-Commerce-Beratung und Serviceleistungen",
-      "description": "Rahmenvertrag E-Commerce-Beratung und Serviceleistungen",
-      "authority": "Goethe-Institut e.V. - Zentrale",
+      "id": "dtvp-f205d0e9f7",
+      "title": "Mediencenter - Bereitstellung und Konfigurierung einer cloudbasierten Online-Shop-Lösung",
+      "description": "Mediencenter - Bereitstellung und Konfigurierung einer cloudbasierten Online-Shop-Lösung",
+      "authority": "Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "24.06.2026",
+      "deadline": "16.07.2026",
       "categories": [
-        "CRM",
-        "Digitalisierung",
+        "Website",
         "E-Commerce"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2516870",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2538281",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-810daa8529",
+      "title": "Unterstützungsleistungen ePA App ANÜ",
+      "description": "Unterstützungsleistungen ePA App ANÜ",
+      "authority": "Techniker Krankenkasse",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "20.07.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541390",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-5297efac38",
+      "title": "Unterstützungsleistungen ePA App",
+      "description": "Unterstützungsleistungen ePA App",
+      "authority": "Techniker Krankenkasse",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "20.07.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541386",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-bda6140f7f",
+      "title": "Digital Hub und Social Media für die Metropolregion Hamburg",
+      "description": "Digital Hub und Social Media für die Metropolregion Hamburg",
+      "authority": "Hamburg Marketing GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "21.07.2026",
+      "categories": [
+        "Marketing",
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541383",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-2c3bb403e3",
+      "title": "Zur Digitalisierung der Lagerlogistik und Implementierung eines Anlageninventursystems auf Workflowbasis",
+      "description": "Zur Digitalisierung der Lagerlogistik und Implementierung eines Anlageninventursystems auf Workflowbasis",
+      "authority": "GSI Helmholtzzentrum für Schwerionenforschung GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "23.07.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2511354",
       "value": null,
       "status": "open"
     },
@@ -366,109 +536,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2027382",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-2c3bb403e3",
-      "title": "Zur Digitalisierung der Lagerlogistik und Implementierung eines Anlageninventursystems auf Workflowbasis",
-      "description": "Zur Digitalisierung der Lagerlogistik und Implementierung eines Anlageninventursystems auf Workflowbasis",
-      "authority": "GSI Helmholtzzentrum für Schwerionenforschung GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "25.06.2026",
-      "categories": [
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2511354",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-ce43eab28f",
-      "title": "Hosting, Betreuung und Weiterentwicklung  BGE-Website",
-      "description": "Hosting, Betreuung und Weiterentwicklung  BGE-Website",
-      "authority": "Bundesgesellschaft für Endlagerung mbH (BGE)",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "26.06.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2524526",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-e53f54c367",
-      "title": "Corporate Design und Webseite für KoSIE",
-      "description": "Corporate Design und Webseite für KoSIE",
-      "authority": "Zentrum für Sozialforschung Halle e.V.",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "26.06.2026",
-      "categories": [
-        "Website",
-        "Design"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2525141",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-fd8ca8c2f2",
-      "title": "Betreuung und Weiterentwicklung der Website (TYPO3)",
-      "description": "Betreuung und Weiterentwicklung der Website (TYPO3)",
-      "authority": "Hochschule Zittau/Görlitz",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "26.06.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2534275",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-2e796484e5",
-      "title": "SUPPORT, WARTUNG UND (WEITER-)ENTWICKLUNG VON WEBSEITEN DES VZBV AB 2027 BIS MAX. ENDE 2030",
-      "description": "SUPPORT, WARTUNG UND (WEITER-)ENTWICKLUNG VON WEBSEITEN DES VZBV AB 2027 BIS MAX. ENDE 2030",
-      "authority": "Verbraucherzentrale Bundesverband e.V.",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "29.06.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2519128",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-8943ae016f",
-      "title": "Rahmenvertrag für die Bereitstellung einer infrastrukturagnostischen internen Entwicklungsplattform",
-      "description": "Rahmenvertrag für die Bereitstellung einer infrastrukturagnostischen internen Entwicklungsplattform",
-      "authority": "Informationstechnikzentrum Bund (ITZBund)",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "29.06.2026",
-      "categories": [
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2534955",
       "value": null,
       "status": "open"
     },
@@ -983,24 +1050,6 @@
       "status": "closing"
     },
     {
-      "id": "dtvp-6fb13ef8ff",
-      "title": "Leadagentur Content-Publishing und digitale Kommunikationskanäle",
-      "description": "Leadagentur Content-Publishing und digitale Kommunikationskanäle",
-      "authority": "AOK Rheinland/Hamburg - Die Gesundheitskasse",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "19.06.2026",
-      "categories": [
-        "Marketing",
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2515883",
-      "value": null,
-      "status": "closing"
-    },
-    {
       "id": "dtvp-3c556c44be",
       "title": "AppSecurity-Expertentest",
       "description": "AppSecurity-Expertentest",
@@ -1104,6 +1153,112 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-09ec89ba29",
+      "title": "Rahmenvertrag E-Commerce-Beratung und Serviceleistungen",
+      "description": "Rahmenvertrag E-Commerce-Beratung und Serviceleistungen",
+      "authority": "Goethe-Institut e.V. - Zentrale",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "24.06.2026",
+      "categories": [
+        "CRM",
+        "Digitalisierung",
+        "E-Commerce"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2516870",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-ce43eab28f",
+      "title": "Hosting, Betreuung und Weiterentwicklung  BGE-Website",
+      "description": "Hosting, Betreuung und Weiterentwicklung  BGE-Website",
+      "authority": "Bundesgesellschaft für Endlagerung mbH (BGE)",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "26.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2524526",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-e53f54c367",
+      "title": "Corporate Design und Webseite für KoSIE",
+      "description": "Corporate Design und Webseite für KoSIE",
+      "authority": "Zentrum für Sozialforschung Halle e.V.",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "26.06.2026",
+      "categories": [
+        "Website",
+        "Design"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2525141",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-fd8ca8c2f2",
+      "title": "Betreuung und Weiterentwicklung der Website (TYPO3)",
+      "description": "Betreuung und Weiterentwicklung der Website (TYPO3)",
+      "authority": "Hochschule Zittau/Görlitz",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "26.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2534275",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-6fb13ef8ff",
+      "title": "Leadagentur Content-Publishing und digitale Kommunikationskanäle",
+      "description": "Leadagentur Content-Publishing und digitale Kommunikationskanäle",
+      "authority": "AOK Rheinland/Hamburg - Die Gesundheitskasse",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "26.06.2026",
+      "categories": [
+        "Marketing",
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2515883",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-af251bab19",
+      "title": "AppSecurity-Expertentest",
+      "description": "AppSecurity-Expertentest",
+      "authority": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "26.06.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2538419",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-a5a6784cd7",
       "title": "Rahmenvertrag für Digitalisierung der Webseite",
       "description": "Rahmenvertrag für Digitalisierung der Webseite",
@@ -1170,6 +1325,40 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2499557",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-2e796484e5",
+      "title": "SUPPORT, WARTUNG UND (WEITER-)ENTWICKLUNG VON WEBSEITEN DES VZBV AB 2027 BIS MAX. ENDE 2030",
+      "description": "SUPPORT, WARTUNG UND (WEITER-)ENTWICKLUNG VON WEBSEITEN DES VZBV AB 2027 BIS MAX. ENDE 2030",
+      "authority": "Verbraucherzentrale Bundesverband e.V.",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "29.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2519128",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-8943ae016f",
+      "title": "Rahmenvertrag für die Bereitstellung einer infrastrukturagnostischen internen Entwicklungsplattform",
+      "description": "Rahmenvertrag für die Bereitstellung einer infrastrukturagnostischen internen Entwicklungsplattform",
+      "authority": "Informationstechnikzentrum Bund (ITZBund)",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "29.06.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2534955",
       "value": null,
       "status": "closing"
     }
