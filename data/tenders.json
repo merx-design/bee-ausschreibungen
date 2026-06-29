@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-22T12:34:01.796074Z",
-  "total": 79,
+  "updated": "2026-06-29T11:33:21.840895Z",
+  "total": 89,
   "sources": {
     "simap": 0,
-    "dtvp": 79
+    "dtvp": 89
   },
   "tenders": [
     {
@@ -179,38 +179,70 @@
       "status": "open"
     },
     {
-      "id": "dtvp-cb982d1220",
-      "title": "Weiterentwicklung und Ausbau einer digitalen Beteiligungsplattform sowie Umsetzung einer Progressive Web App (PWA)",
-      "description": "Weiterentwicklung und Ausbau einer digitalen Beteiligungsplattform sowie Umsetzung einer Progressive Web App (PWA)",
-      "authority": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+      "id": "dtvp-1eb8f29ee5",
+      "title": "Markterkundung: CRM Tool für die Deutsche Bundesbank",
+      "description": "Markterkundung: CRM Tool für die Deutsche Bundesbank",
+      "authority": "Deutsche Bundesbank, Zentralbereich Beschaffungen",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "02.07.2026",
+      "deadline": "",
       "categories": [
-        "App",
-        "Digitalisierung"
+        "CRM"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2526580",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2545712",
       "value": null,
       "status": "open"
     },
     {
-      "id": "dtvp-24e82fb1eb",
-      "title": "Konzeption, UX/UI-Design, Designsystem und technische Umsetzungsbegleitung für den Relaunch der Website des Deutschen Biomasseforschungszentrums (DBFZ) auf Basis von Drupal 11 (Core)",
-      "description": "Konzeption, UX/UI-Design, Designsystem und technische Umsetzungsbegleitung für den Relaunch der Website des Deutschen Biomasseforschungszentrums (DBFZ) auf Basis von Drupal 11 (Core)",
-      "authority": "DBFZ Deutsches Biomasseforschungszentrum gemeinnützige GmbH",
+      "id": "dtvp-7da2b9dd5b",
+      "title": "Rahmenvereinbarung Social Media Werbung (Ex ante)",
+      "description": "Rahmenvereinbarung Social Media Werbung (Ex ante)",
+      "authority": "Berlin Partner für Wirtschaft und Technologie GmbH",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "05.07.2026",
+      "deadline": "",
       "categories": [
-        "Website",
+        "Marketing"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2542607",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-fc85f7f4ac",
+      "title": "Kommunikative Umsetzung und Corporate Design der TH Wildau auf Basis des neuen Hochschulprofils",
+      "description": "Kommunikative Umsetzung und Corporate Design der TH Wildau auf Basis des neuen Hochschulprofils",
+      "authority": "Technische Hochschule Wildau",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "",
+      "categories": [
         "Design"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2535548",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2541689",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-f0972c875e",
+      "title": "Relaunch, Betrieb und Hosting der Websites",
+      "description": "Relaunch, Betrieb und Hosting der Websites",
+      "authority": "Rheinland-Pfalz Tourismus GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "03.08.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2545210",
       "value": null,
       "status": "open"
     },
@@ -228,6 +260,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2530284",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-160c287bd7",
+      "title": "Bauhaus-Archiv: Performance Marketing 2026: II",
+      "description": "Bauhaus-Archiv: Performance Marketing 2026: II",
+      "authority": "Bauhaus-Archiv / Museum für Gestaltung",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "08.07.2026",
+      "categories": [
+        "Marketing"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2544056",
       "value": null,
       "status": "open"
     },
@@ -454,6 +503,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-90b960d149",
+      "title": "Technischer und redaktioneller Support für die Webseite www.migration-gesundheit.bund.de",
+      "description": "Technischer und redaktioneller Support für die Webseite www.migration-gesundheit.bund.de",
+      "authority": "Bundesministerium für Gesundheit",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.07.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2546538",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-810daa8529",
       "title": "Unterstützungsleistungen ePA App ANÜ",
       "description": "Unterstützungsleistungen ePA App ANÜ",
@@ -523,6 +589,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-6faba2a0b2",
+      "title": "Ausschreibung Beschaffung einer SAP-integrierten IT-Lösung zur servicegestützten Überprüfung von Bankverbindungen - Vergabe PR1209011-9727-I",
+      "description": "Ausschreibung Beschaffung einer SAP-integrierten IT-Lösung zur servicegestützten Überprüfung von Bankverbindungen - Vergabe PR1209011-9727-I",
+      "authority": "Fraunhofer-Gesellschaft - Einkauf B12",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "23.07.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2542361",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-5f2ea27b96",
       "title": "Dynamisches Beschaffungssystem zur Beschaffung von verschiedenen IT-Dienstleistungen",
       "description": "Dynamisches Beschaffungssystem zur Beschaffung von verschiedenen IT-Dienstleistungen",
@@ -540,36 +623,36 @@
       "status": "open"
     },
     {
-      "id": "dtvp-19ebb1b603",
-      "title": "\"Website-Entwicklung, Support und Weiterentwicklung von Formaten und Inhalten Demokratiezentrum NRW",
-      "description": "\"Website-Entwicklung, Support und Weiterentwicklung von Formaten und Inhalten Demokratiezentrum NRW",
-      "authority": "Landeszentrale für politische Bildung Nordrhein-Westfalen, teilrechtsfähige Anstalt des öffentlichen Rechts bei dem Präsidenten des Landtags NRW",
+      "id": "dtvp-620edceb6c",
+      "title": "Rahmenvertrag zur Weiterentwicklung des CRM- Systems (insb. der Projektedatenbank für die Fachprogramme) auf Basis von Microsoft Dynamics 365 CRM",
+      "description": "Rahmenvertrag zur Weiterentwicklung des CRM- Systems (insb. der Projektedatenbank für die Fachprogramme) auf Basis von Microsoft Dynamics 365 CRM",
+      "authority": "Engagement Global gGmbH",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "30.06.2026",
+      "deadline": "27.07.2026",
       "categories": [
-        "Website"
+        "CRM"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2524961",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2543122",
       "value": null,
       "status": "open"
     },
     {
-      "id": "dtvp-fe0e76be98",
-      "title": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
-      "description": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
-      "authority": "Universität Hamburg",
+      "id": "dtvp-920ca8bc42",
+      "title": "Technische Pflege und Hosting der Website zum EU-Schulprogramm NRW  sowie Bereitstellung der Bewerbungsverfahren für die Jahre 2027 bis 2029",
+      "description": "Technische Pflege und Hosting der Website zum EU-Schulprogramm NRW  sowie Bereitstellung der Bewerbungsverfahren für die Jahre 2027 bis 2029",
+      "authority": "Ministerium für Landwirtschaft und Verbraucherschutz NRW",
       "location": "Deutschland",
       "country": "DE",
       "published": "",
-      "deadline": "30.06.2026",
+      "deadline": "30.07.2026",
       "categories": [
         "Website"
       ],
       "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2524579",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2543275",
       "value": null,
       "status": "open"
     },
@@ -693,6 +776,24 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-cb982d1220",
+      "title": "Weiterentwicklung und Ausbau einer digitalen Beteiligungsplattform sowie Umsetzung einer Progressive Web App (PWA)",
+      "description": "Weiterentwicklung und Ausbau einer digitalen Beteiligungsplattform sowie Umsetzung einer Progressive Web App (PWA)",
+      "authority": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "02.07.2026",
+      "categories": [
+        "App",
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2526580",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-a80155f547",
       "title": "Relaunch der Internetpräsenz des Bezirksverband Pfalz",
       "description": "Relaunch der Internetpräsenz des Bezirksverband Pfalz",
@@ -740,6 +841,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2499479",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-c28292ecb7",
+      "title": "Einführung eines CRM-Systems",
+      "description": "Einführung eines CRM-Systems",
+      "authority": "byte - Bayerische Agentur für Digitales GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "03.07.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541673",
       "value": null,
       "status": "closing"
     },
@@ -808,6 +926,24 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2517158",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-24e82fb1eb",
+      "title": "Konzeption, UX/UI-Design, Designsystem und technische Umsetzungsbegleitung für den Relaunch der Website des Deutschen Biomasseforschungszentrums (DBFZ) auf Basis von Drupal 11 (Core)",
+      "description": "Konzeption, UX/UI-Design, Designsystem und technische Umsetzungsbegleitung für den Relaunch der Website des Deutschen Biomasseforschungszentrums (DBFZ) auf Basis von Drupal 11 (Core)",
+      "authority": "DBFZ Deutsches Biomasseforschungszentrum gemeinnützige GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "05.07.2026",
+      "categories": [
+        "Website",
+        "Design"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2535548",
       "value": null,
       "status": "closing"
     },
@@ -1359,6 +1495,40 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2534955",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-19ebb1b603",
+      "title": "\"Website-Entwicklung, Support und Weiterentwicklung von Formaten und Inhalten Demokratiezentrum NRW",
+      "description": "\"Website-Entwicklung, Support und Weiterentwicklung von Formaten und Inhalten Demokratiezentrum NRW",
+      "authority": "Landeszentrale für politische Bildung Nordrhein-Westfalen, teilrechtsfähige Anstalt des öffentlichen Rechts bei dem Präsidenten des Landtags NRW",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "30.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2524961",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-fe0e76be98",
+      "title": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
+      "description": "Relaunch der Universitätswebseite der HCU inkl. Wartung/Support und Weiterentwicklung",
+      "authority": "Universität Hamburg",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "30.06.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2524579",
       "value": null,
       "status": "closing"
     }
