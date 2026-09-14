@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-07T12:56:27.992530Z",
-  "total": 148,
+  "updated": "2026-09-14T13:11:41.672730Z",
+  "total": 150,
   "sources": {
     "simap": 0,
-    "dtvp": 148
+    "dtvp": 150
   },
   "tenders": [
     {
@@ -333,6 +333,24 @@
       "status": "open"
     },
     {
+      "id": "dtvp-83e891bcfa",
+      "title": "Lizenzen für SAP Business by Design",
+      "description": "Lizenzen für SAP Business by Design",
+      "authority": "CONITAS GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "05.10.2026",
+      "categories": [
+        "ERP",
+        "Design"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2603238",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-8c4db8c080",
       "title": "Rahmenvereinbarung Beratungs- und Serviceleistungen zum Corporate Design, Template-Erstellung und Portalbetreuung",
       "description": "Rahmenvereinbarung Beratungs- und Serviceleistungen zum Corporate Design, Template-Erstellung und Portalbetreuung",
@@ -346,6 +364,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2550951",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-84f25d38f2",
+      "title": "Relaunch Website 2026-VG-NG17_0001",
+      "description": "Relaunch Website 2026-VG-NG17_0001",
+      "authority": "Staatsbetrieb Sachsenforst - NSG-Verwaltung Königsbrücker Heide/Gohrischheide",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "08.10.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2603731",
       "value": null,
       "status": "open"
     },
@@ -435,57 +470,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-344e2181c9",
-      "title": "Relaunch und Weiterentwicklung der CHANCEN-Verbund-Website unter Verwendung des Content-Management-Systems Plone",
-      "description": "Relaunch und Weiterentwicklung der CHANCEN-Verbund-Website unter Verwendung des Content-Management-Systems Plone",
-      "authority": "DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "15.09.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2591847",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-c536e71470",
-      "title": "Softwareentwicklung VR und Kauf von VR Brillen",
-      "description": "Softwareentwicklung VR und Kauf von VR Brillen",
-      "authority": "Landkreis Meißen, Landratsamt, Rechts- und Kommunalamt, Vergabestelle",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "15.09.2026",
-      "categories": [
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2592363",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-4fbcd30ad7",
-      "title": "IT-Dienstleistungen für die Softwareentwicklung im Bereich Datenbank MySQL, hier: Konzeption, Entwicklung und Migration",
-      "description": "IT-Dienstleistungen für die Softwareentwicklung im Bereich Datenbank MySQL, hier: Konzeption, Entwicklung und Migration",
-      "authority": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "16.09.2026",
-      "categories": [
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2583257",
-      "value": null,
-      "status": "open"
-    },
-    {
       "id": "dtvp-31bdc96d64",
       "title": "Beschaffung eines Newsroom-Tools als SaaS",
       "description": "Beschaffung eines Newsroom-Tools als SaaS",
@@ -499,40 +483,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2565815",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-89bc1f80ed",
-      "title": "Technische Pflege und Hosting der Website zum EU-Schulprogramm NRW  sowie Bereitstellung der Bewerbungsverfahren für die Jahre 2027 bis 2029",
-      "description": "Technische Pflege und Hosting der Website zum EU-Schulprogramm NRW  sowie Bereitstellung der Bewerbungsverfahren für die Jahre 2027 bis 2029",
-      "authority": "Ministerium für Landwirtschaft und Verbraucherschutz NRW",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "17.09.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2589072",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-85f178ff55",
-      "title": "TRANSITION SAP ERP HCM AUF SAP HCM FOR S/4HANA (H4S4)",
-      "description": "TRANSITION SAP ERP HCM AUF SAP HCM FOR S/4HANA (H4S4)",
-      "authority": "Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "18.09.2026",
-      "categories": [
-        "ERP"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2588577",
       "value": null,
       "status": "open"
     },
@@ -584,23 +534,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2566667",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-99347eac3e",
-      "title": "Lieferung und Implementierung eines CRM-Systems",
-      "description": "Lieferung und Implementierung eines CRM-Systems",
-      "authority": "Universität Stuttgart",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "21.09.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2588068",
       "value": null,
       "status": "open"
     },
@@ -1679,6 +1612,40 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-344e2181c9",
+      "title": "Relaunch und Weiterentwicklung der CHANCEN-Verbund-Website unter Verwendung des Content-Management-Systems Plone",
+      "description": "Relaunch und Weiterentwicklung der CHANCEN-Verbund-Website unter Verwendung des Content-Management-Systems Plone",
+      "authority": "DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "15.09.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2591847",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-c536e71470",
+      "title": "Softwareentwicklung VR und Kauf von VR Brillen",
+      "description": "Softwareentwicklung VR und Kauf von VR Brillen",
+      "authority": "Landkreis Meißen, Landratsamt, Rechts- und Kommunalamt, Vergabestelle",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "15.09.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2592363",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-d0fb6d247f",
       "title": "Rahmenvereinbarung Performance Marketing Agentur",
       "description": "Rahmenvereinbarung Performance Marketing Agentur",
@@ -1765,6 +1732,23 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-4fbcd30ad7",
+      "title": "IT-Dienstleistungen für die Softwareentwicklung im Bereich Datenbank MySQL, hier: Konzeption, Entwicklung und Migration",
+      "description": "IT-Dienstleistungen für die Softwareentwicklung im Bereich Datenbank MySQL, hier: Konzeption, Entwicklung und Migration",
+      "authority": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium des Innern, vertreten durch das Beschaffungsamt des BMI",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.09.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2583257",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-24f79ab107",
       "title": "IT-Sicherheit - Schutz von Webseiten (SaS)",
       "description": "IT-Sicherheit - Schutz von Webseiten (SaS)",
@@ -1795,6 +1779,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2557752",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-89bc1f80ed",
+      "title": "Technische Pflege und Hosting der Website zum EU-Schulprogramm NRW  sowie Bereitstellung der Bewerbungsverfahren für die Jahre 2027 bis 2029",
+      "description": "Technische Pflege und Hosting der Website zum EU-Schulprogramm NRW  sowie Bereitstellung der Bewerbungsverfahren für die Jahre 2027 bis 2029",
+      "authority": "Ministerium für Landwirtschaft und Verbraucherschutz NRW",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "17.09.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2589072",
       "value": null,
       "status": "closing"
     },
@@ -1846,6 +1847,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2565762",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-85f178ff55",
+      "title": "TRANSITION SAP ERP HCM AUF SAP HCM FOR S/4HANA (H4S4)",
+      "description": "TRANSITION SAP ERP HCM AUF SAP HCM FOR S/4HANA (H4S4)",
+      "authority": "Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "18.09.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2588577",
       "value": null,
       "status": "closing"
     },
@@ -1933,6 +1951,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2566793",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-99347eac3e",
+      "title": "Lieferung und Implementierung eines CRM-Systems",
+      "description": "Lieferung und Implementierung eines CRM-Systems",
+      "authority": "Universität Stuttgart",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "21.09.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2588068",
       "value": null,
       "status": "closing"
     },
