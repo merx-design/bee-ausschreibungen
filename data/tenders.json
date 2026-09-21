@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-14T13:11:41.672730Z",
-  "total": 150,
+  "updated": "2026-09-21T13:10:25.486035Z",
+  "total": 152,
   "sources": {
     "simap": 0,
-    "dtvp": 150
+    "dtvp": 152
   },
   "tenders": [
     {
@@ -470,6 +470,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-328384da05",
+      "title": "Beschaffung eines CRM-Portals",
+      "description": "Beschaffung eines CRM-Portals",
+      "authority": "WIRO Wohnen in Rostock Wohnungsgesellschaft mbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "14.10.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2607305",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-31bdc96d64",
       "title": "Beschaffung eines Newsroom-Tools als SaaS",
       "description": "Beschaffung eines Newsroom-Tools als SaaS",
@@ -483,6 +500,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2565815",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-51b8e8be30",
+      "title": "Programmierung und Betrieb der Webseite",
+      "description": "Programmierung und Betrieb der Webseite",
+      "authority": "BKK Dachverband e.V.",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "19.10.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2608228",
       "value": null,
       "status": "open"
     },
@@ -551,40 +585,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2027382",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-5a31abec8e",
-      "title": "RV Technische Betreuung & Wartung Intranet",
-      "description": "RV Technische Betreuung & Wartung Intranet",
-      "authority": "Berlin Partner für Wirtschaft und Technologie GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "25.09.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2593983",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-6ab7ff0174",
-      "title": "CRM-System",
-      "description": "CRM-System",
-      "authority": "Energieservice Westfalen Weser GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "25.09.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2591593",
       "value": null,
       "status": "open"
     },
@@ -2159,6 +2159,40 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2568508",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-5a31abec8e",
+      "title": "RV Technische Betreuung & Wartung Intranet",
+      "description": "RV Technische Betreuung & Wartung Intranet",
+      "authority": "Berlin Partner für Wirtschaft und Technologie GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "25.09.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2593983",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-6ab7ff0174",
+      "title": "CRM-System",
+      "description": "CRM-System",
+      "authority": "Energieservice Westfalen Weser GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "25.09.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2591593",
       "value": null,
       "status": "closing"
     },
