@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-21T13:10:25.486035Z",
-  "total": 152,
+  "updated": "2026-09-28T14:20:33.569496Z",
+  "total": 155,
   "sources": {
     "simap": 0,
-    "dtvp": 152
+    "dtvp": 155
   },
   "tenders": [
     {
@@ -282,23 +282,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-5629a6c865",
-      "title": "2026-104 Refresh Corporate Design",
-      "description": "2026-104 Refresh Corporate Design",
-      "authority": "Berufsgenossenschaft für Gesundheitsdienst und Wohlfahrtspflege (BGW)",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "02.10.2026",
-      "categories": [
-        "Design"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2598187",
-      "value": null,
-      "status": "open"
-    },
-    {
       "id": "dtvp-e5c5a73573",
       "title": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
       "description": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
@@ -333,24 +316,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-83e891bcfa",
-      "title": "Lizenzen für SAP Business by Design",
-      "description": "Lizenzen für SAP Business by Design",
-      "authority": "CONITAS GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "05.10.2026",
-      "categories": [
-        "ERP",
-        "Design"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2603238",
-      "value": null,
-      "status": "open"
-    },
-    {
       "id": "dtvp-8c4db8c080",
       "title": "Rahmenvereinbarung Beratungs- und Serviceleistungen zum Corporate Design, Template-Erstellung und Portalbetreuung",
       "description": "Rahmenvereinbarung Beratungs- und Serviceleistungen zum Corporate Design, Template-Erstellung und Portalbetreuung",
@@ -364,6 +329,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2550951",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-013f3542b8",
+      "title": "Entwicklung einer Website für das Verbundprojekt MUvIS GB IV-F-04/2026",
+      "description": "Entwicklung einer Website für das Verbundprojekt MUvIS GB IV-F-04/2026",
+      "authority": "Team Vergabe Lieferungen/Dienstleistungen",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "07.10.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2612895",
       "value": null,
       "status": "open"
     },
@@ -487,6 +469,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-202f1dea56",
+      "title": "Rahmenvertrag über die Erbringung von Redaktionsleistungen für die Website (Los 1) sowie Rahmenvertrag über die redaktionelle Aufbereitung von Handlungsempfehlungen des KI-Rats (Los 2)",
+      "description": "Rahmenvertrag über die Erbringung von Redaktionsleistungen für die Website (Los 1) sowie Rahmenvertrag über die redaktionelle Aufbereitung von Handlungsempfehlungen des KI-Rats (Los 2)",
+      "authority": "Landeszentrale für politische Bildung Nordrhein-Westfalen, teilrechtsfähige Anstalt des öffentlichen Rechts bei dem Präsidenten des Landtags, vertrete",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "14.10.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2612289",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-31bdc96d64",
       "title": "Beschaffung eines Newsroom-Tools als SaaS",
       "description": "Beschaffung eines Newsroom-Tools als SaaS",
@@ -585,6 +584,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2027382",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-727268c02b",
+      "title": "Beschaffung einer App zum Training von Kognition und Sprache bei neurologischen Erkrankungen",
+      "description": "Beschaffung einer App zum Training von Kognition und Sprache bei neurologischen Erkrankungen",
+      "authority": "DAK-Gesundheit",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "29.10.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2614101",
       "value": null,
       "status": "open"
     },
@@ -756,6 +772,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2526580",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-5629a6c865",
+      "title": "2026-104 Refresh Corporate Design",
+      "description": "2026-104 Refresh Corporate Design",
+      "authority": "Berufsgenossenschaft für Gesundheitsdienst und Wohlfahrtspflege (BGW)",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "02.10.2026",
+      "categories": [
+        "Design"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2598187",
       "value": null,
       "status": "closing"
     },
@@ -1012,6 +1045,24 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2552928",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-83e891bcfa",
+      "title": "Lizenzen für SAP Business by Design",
+      "description": "Lizenzen für SAP Business by Design",
+      "authority": "CONITAS GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "05.10.2026",
+      "categories": [
+        "ERP",
+        "Design"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2603238",
       "value": null,
       "status": "closing"
     },
