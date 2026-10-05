@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-28T14:20:33.569496Z",
-  "total": 155,
+  "updated": "2026-10-05T15:08:32.556984Z",
+  "total": 157,
   "sources": {
     "simap": 0,
-    "dtvp": 155
+    "dtvp": 157
   },
   "tenders": [
     {
@@ -264,6 +264,41 @@
       "status": "open"
     },
     {
+      "id": "dtvp-577d87be73",
+      "title": "Brandenburgisches Landesmuseum für moderne Kunst Website Relaunch",
+      "description": "Brandenburgisches Landesmuseum für moderne Kunst Website Relaunch",
+      "authority": "Brandenburgische Kulturstiftung Cottbus-Frankfurt (Oder) (BKC-F)",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "",
+      "categories": [
+        "Website",
+        "Design"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2616297",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-cb105d40e5",
+      "title": "Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+      "description": "Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+      "authority": "Universitätsklinikum Essen (AöR)",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2617917",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-95d6a3f68f",
       "title": "Ausschreibung einer Online-Marketing und Performance-Marketing Agentur für Social Media Advertising - Programmatic Advertising - datengetriebene digitalen Kampagnen.",
       "description": "Ausschreibung einer Online-Marketing und Performance-Marketing Agentur für Social Media Advertising - Programmatic Advertising - datengetriebene digitalen Kampagnen.",
@@ -333,40 +368,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-013f3542b8",
-      "title": "Entwicklung einer Website für das Verbundprojekt MUvIS GB IV-F-04/2026",
-      "description": "Entwicklung einer Website für das Verbundprojekt MUvIS GB IV-F-04/2026",
-      "authority": "Team Vergabe Lieferungen/Dienstleistungen",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "07.10.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2612895",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-84f25d38f2",
-      "title": "Relaunch Website 2026-VG-NG17_0001",
-      "description": "Relaunch Website 2026-VG-NG17_0001",
-      "authority": "Staatsbetrieb Sachsenforst - NSG-Verwaltung Königsbrücker Heide/Gohrischheide",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "08.10.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2603731",
-      "value": null,
-      "status": "open"
-    },
-    {
       "id": "dtvp-79ee046820",
       "title": "Externe Projektleitung für KONSENS Softwareentwicklungsprojekte",
       "description": "Externe Projektleitung für KONSENS Softwareentwicklungsprojekte",
@@ -397,23 +398,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2563836",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-2df4ffb9dc",
-      "title": "Ausschreibung von Ultraschall-Kaltwasserzählern, Kunden App und Zubehör",
-      "description": "Ausschreibung von Ultraschall-Kaltwasserzählern, Kunden App und Zubehör",
-      "authority": "Zweckverband KÜHLUNG Wasserversorgung & Abwasserbeseitigung",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "10.10.2026",
-      "categories": [
-        "App"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2596636",
       "value": null,
       "status": "open"
     },
@@ -1119,6 +1103,23 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-013f3542b8",
+      "title": "Entwicklung einer Website für das Verbundprojekt MUvIS GB IV-F-04/2026",
+      "description": "Entwicklung einer Website für das Verbundprojekt MUvIS GB IV-F-04/2026",
+      "authority": "Team Vergabe Lieferungen/Dienstleistungen",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "07.10.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2612895",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-050b08edf3",
       "title": "Neues Kassensystem / Ticketing Wilhelma",
       "description": "Neues Kassensystem / Ticketing Wilhelma",
@@ -1221,6 +1222,23 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-84f25d38f2",
+      "title": "Relaunch Website 2026-VG-NG17_0001",
+      "description": "Relaunch Website 2026-VG-NG17_0001",
+      "authority": "Staatsbetrieb Sachsenforst - NSG-Verwaltung Königsbrücker Heide/Gohrischheide",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "08.10.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2603731",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-b5600bd10f",
       "title": "IM - Softwareentwicklung - Grundlagen der Programmierung - Online",
       "description": "IM - Softwareentwicklung - Grundlagen der Programmierung - Online",
@@ -1319,6 +1337,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2560331",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-2df4ffb9dc",
+      "title": "Ausschreibung von Ultraschall-Kaltwasserzählern, Kunden App und Zubehör",
+      "description": "Ausschreibung von Ultraschall-Kaltwasserzählern, Kunden App und Zubehör",
+      "authority": "Zweckverband KÜHLUNG Wasserversorgung & Abwasserbeseitigung",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "10.10.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2596636",
       "value": null,
       "status": "closing"
     },
