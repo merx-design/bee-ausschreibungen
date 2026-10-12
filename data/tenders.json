@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-05T15:08:32.556984Z",
-  "total": 157,
+  "updated": "2026-10-12T15:54:47.114732Z",
+  "total": 159,
   "sources": {
     "simap": 0,
-    "dtvp": 157
+    "dtvp": 159
   },
   "tenders": [
     {
@@ -351,6 +351,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-ce7f5c4313",
+      "title": "Managed Services Website (Hosting, Betrieb, Betreuung, Weiterentwicklung) - TYPO3",
+      "description": "Managed Services Website (Hosting, Betrieb, Betreuung, Weiterentwicklung) - TYPO3",
+      "authority": "Managed Services Website (Hosting, Betrieb, Betreuung, Weiterentwicklung) - TYPO3",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "05.11.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2620887",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-8c4db8c080",
       "title": "Rahmenvereinbarung Beratungs- und Serviceleistungen zum Corporate Design, Template-Erstellung und Portalbetreuung",
       "description": "Rahmenvereinbarung Beratungs- und Serviceleistungen zum Corporate Design, Template-Erstellung und Portalbetreuung",
@@ -381,6 +398,24 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2137025",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-242e07aee1",
+      "title": "Digital Marketing Services for the European Raw Materials  Academy and European Advanced Materials Academy",
+      "description": "Digital Marketing Services for the European Raw Materials  Academy and European Advanced Materials Academy",
+      "authority": "EIT RawMaterials GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "09.11.2026",
+      "categories": [
+        "Marketing",
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2622793",
       "value": null,
       "status": "open"
     },
@@ -436,40 +471,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-328384da05",
-      "title": "Beschaffung eines CRM-Portals",
-      "description": "Beschaffung eines CRM-Portals",
-      "authority": "WIRO Wohnen in Rostock Wohnungsgesellschaft mbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "14.10.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2607305",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-202f1dea56",
-      "title": "Rahmenvertrag über die Erbringung von Redaktionsleistungen für die Website (Los 1) sowie Rahmenvertrag über die redaktionelle Aufbereitung von Handlungsempfehlungen des KI-Rats (Los 2)",
-      "description": "Rahmenvertrag über die Erbringung von Redaktionsleistungen für die Website (Los 1) sowie Rahmenvertrag über die redaktionelle Aufbereitung von Handlungsempfehlungen des KI-Rats (Los 2)",
-      "authority": "Landeszentrale für politische Bildung Nordrhein-Westfalen, teilrechtsfähige Anstalt des öffentlichen Rechts bei dem Präsidenten des Landtags, vertrete",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "14.10.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2612289",
-      "value": null,
-      "status": "open"
-    },
-    {
       "id": "dtvp-31bdc96d64",
       "title": "Beschaffung eines Newsroom-Tools als SaaS",
       "description": "Beschaffung eines Newsroom-Tools als SaaS",
@@ -483,23 +484,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2565815",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-51b8e8be30",
-      "title": "Programmierung und Betrieb der Webseite",
-      "description": "Programmierung und Betrieb der Webseite",
-      "authority": "BKK Dachverband e.V.",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "19.10.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2608228",
       "value": null,
       "status": "open"
     },
@@ -1630,6 +1614,40 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-328384da05",
+      "title": "Beschaffung eines CRM-Portals",
+      "description": "Beschaffung eines CRM-Portals",
+      "authority": "WIRO Wohnen in Rostock Wohnungsgesellschaft mbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "14.10.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2607305",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-202f1dea56",
+      "title": "Rahmenvertrag über die Erbringung von Redaktionsleistungen für die Website (Los 1) sowie Rahmenvertrag über die redaktionelle Aufbereitung von Handlungsempfehlungen des KI-Rats (Los 2)",
+      "description": "Rahmenvertrag über die Erbringung von Redaktionsleistungen für die Website (Los 1) sowie Rahmenvertrag über die redaktionelle Aufbereitung von Handlungsempfehlungen des KI-Rats (Los 2)",
+      "authority": "Landeszentrale für politische Bildung Nordrhein-Westfalen, teilrechtsfähige Anstalt des öffentlichen Rechts bei dem Präsidenten des Landtags, vertrete",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "14.10.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2612289",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-55b281bb24",
       "title": "Landesgartenschau 2027 Neustadt an der Weinstraße - Performance Marketing",
       "description": "Landesgartenschau 2027 Neustadt an der Weinstraße - Performance Marketing",
@@ -1985,6 +2003,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2518227",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-51b8e8be30",
+      "title": "Programmierung und Betrieb der Webseite",
+      "description": "Programmierung und Betrieb der Webseite",
+      "authority": "BKK Dachverband e.V.",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "19.10.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2608228",
       "value": null,
       "status": "closing"
     },
