@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-12T15:54:47.114732Z",
-  "total": 159,
+  "updated": "2026-10-19T13:49:03.235868Z",
+  "total": 160,
   "sources": {
     "simap": 0,
-    "dtvp": 159
+    "dtvp": 160
   },
   "tenders": [
     {
@@ -484,6 +484,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2565815",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-6b0f2de83e",
+      "title": "App zur Unterstützung eines gesunden Lebensstils von erwachsenen Versicherten mit Adipositas",
+      "description": "App zur Unterstützung eines gesunden Lebensstils von erwachsenen Versicherten mit Adipositas",
+      "authority": "DAK-Gesundheit",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "17.11.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2630416",
       "value": null,
       "status": "open"
     },
