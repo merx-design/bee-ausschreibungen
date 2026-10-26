@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-19T13:49:03.235868Z",
-  "total": 160,
+  "updated": "2026-10-26T13:27:37.147406Z",
+  "total": 165,
   "sources": {
     "simap": 0,
-    "dtvp": 160
+    "dtvp": 165
   },
   "tenders": [
     {
@@ -471,6 +471,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-8f412584a6",
+      "title": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
+      "description": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
+      "authority": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.11.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2631105",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-31bdc96d64",
       "title": "Beschaffung eines Newsroom-Tools als SaaS",
       "description": "Beschaffung eines Newsroom-Tools als SaaS",
@@ -501,6 +518,40 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2630416",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-3c72521c1c",
+      "title": "Rahmenvertrag wissenschaftlich-technische Softwareentwicklung",
+      "description": "Rahmenvertrag wissenschaftlich-technische Softwareentwicklung",
+      "authority": "FIZ Karlsruhe - Leibniz-Institut für  Informationsinfrastruktur GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "18.11.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2631205",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-cdf9d56f38",
+      "title": "Rahmenvereinbarung für Unterstützungsleistungen CRM",
+      "description": "Rahmenvereinbarung für Unterstützungsleistungen CRM",
+      "authority": "gematik GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "20.11.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2633252",
       "value": null,
       "status": "open"
     },
@@ -556,6 +607,40 @@
       "status": "open"
     },
     {
+      "id": "dtvp-8c03f2b443",
+      "title": "Ausschreibung über den Betrieb, Hosting und Weiterentwicklung der Website www.kkh.de inklusive Migration auf ein zukunftsfähiges CMS-System",
+      "description": "Ausschreibung über den Betrieb, Hosting und Weiterentwicklung der Website www.kkh.de inklusive Migration auf ein zukunftsfähiges CMS-System",
+      "authority": "Kaufmännische Krankenkasse - KKH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "23.11.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2633302",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-90f715011a",
+      "title": "Transformation SAP S4 Hana",
+      "description": "Transformation SAP S4 Hana",
+      "authority": "SWU Stadtwerke Ulm/Neu-Ulm GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "23.11.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2634093",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-5f2ea27b96",
       "title": "Dynamisches Beschaffungssystem zur Beschaffung von verschiedenen IT-Dienstleistungen",
       "description": "Dynamisches Beschaffungssystem zur Beschaffung von verschiedenen IT-Dienstleistungen",
@@ -569,23 +654,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2027382",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-727268c02b",
-      "title": "Beschaffung einer App zum Training von Kognition und Sprache bei neurologischen Erkrankungen",
-      "description": "Beschaffung einer App zum Training von Kognition und Sprache bei neurologischen Erkrankungen",
-      "authority": "DAK-Gesundheit",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "29.10.2026",
-      "categories": [
-        "App"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2614101",
       "value": null,
       "status": "open"
     },
@@ -2574,6 +2642,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2534955",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-727268c02b",
+      "title": "Beschaffung einer App zum Training von Kognition und Sprache bei neurologischen Erkrankungen",
+      "description": "Beschaffung einer App zum Training von Kognition und Sprache bei neurologischen Erkrankungen",
+      "authority": "DAK-Gesundheit",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "29.10.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2614101",
       "value": null,
       "status": "closing"
     },
