@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-26T13:27:37.147406Z",
-  "total": 165,
+  "updated": "2026-11-02T16:27:28.725103Z",
+  "total": 173,
   "sources": {
     "simap": 0,
-    "dtvp": 165
+    "dtvp": 173
   },
   "tenders": [
     {
@@ -299,6 +299,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-34bb5c4b92",
+      "title": "RFI ERP System",
+      "description": "RFI ERP System",
+      "authority": "LINK digital GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2638768",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-95d6a3f68f",
       "title": "Ausschreibung einer Online-Marketing und Performance-Marketing Agentur für Social Media Advertising - Programmatic Advertising - datengetriebene digitalen Kampagnen.",
       "description": "Ausschreibung einer Online-Marketing und Performance-Marketing Agentur für Social Media Advertising - Programmatic Advertising - datengetriebene digitalen Kampagnen.",
@@ -313,6 +330,41 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2550459",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-2378fc2957",
+      "title": "Vergabeverfahren Relaunch Website",
+      "description": "Vergabeverfahren Relaunch Website",
+      "authority": "Landwirtschaftliche Rentenbank",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "01.12.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2639364",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-b61479f403",
+      "title": "Beratung Digitalisierung - Los 1 - ERP",
+      "description": "Beratung Digitalisierung - Los 1 - ERP",
+      "authority": "Studierendenwerk Münster AÖR",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "01.12.2026",
+      "categories": [
+        "ERP",
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2640323",
       "value": null,
       "status": "open"
     },
@@ -351,23 +403,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-ce7f5c4313",
-      "title": "Managed Services Website (Hosting, Betrieb, Betreuung, Weiterentwicklung) - TYPO3",
-      "description": "Managed Services Website (Hosting, Betrieb, Betreuung, Weiterentwicklung) - TYPO3",
-      "authority": "Managed Services Website (Hosting, Betrieb, Betreuung, Weiterentwicklung) - TYPO3",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "05.11.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2620887",
-      "value": null,
-      "status": "open"
-    },
-    {
       "id": "dtvp-8c4db8c080",
       "title": "Rahmenvereinbarung Beratungs- und Serviceleistungen zum Corporate Design, Template-Erstellung und Portalbetreuung",
       "description": "Rahmenvereinbarung Beratungs- und Serviceleistungen zum Corporate Design, Template-Erstellung und Portalbetreuung",
@@ -398,24 +433,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2137025",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-242e07aee1",
-      "title": "Digital Marketing Services for the European Raw Materials  Academy and European Advanced Materials Academy",
-      "description": "Digital Marketing Services for the European Raw Materials  Academy and European Advanced Materials Academy",
-      "authority": "EIT RawMaterials GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "09.11.2026",
-      "categories": [
-        "Marketing",
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2622793",
       "value": null,
       "status": "open"
     },
@@ -454,6 +471,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-d0ff0bf6e7",
+      "title": "App Review Management",
+      "description": "App Review Management",
+      "authority": "AOK connect GbR",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "13.11.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2636472",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-a213993db5",
       "title": "Bereitstellung und Betrieb einer Groupware-SaaS-Lösung für E-Mail, Kalender, Kontakte, Aufgaben, Webmail",
       "description": "Bereitstellung und Betrieb einer Groupware-SaaS-Lösung für E-Mail, Kalender, Kontakte, Aufgaben, Webmail",
@@ -471,6 +505,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-ce7f5c4313",
+      "title": "Managed Services Website (Hosting, Betrieb, Betreuung, Weiterentwicklung) - TYPO3",
+      "description": "Managed Services Website (Hosting, Betrieb, Betreuung, Weiterentwicklung) - TYPO3",
+      "authority": "Managed Services Website (Hosting, Betrieb, Betreuung, Weiterentwicklung) - TYPO3",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.11.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2620887",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-8f412584a6",
       "title": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
       "description": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
@@ -484,6 +535,40 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2631105",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-c114a1b4af",
+      "title": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
+      "description": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
+      "authority": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.11.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2638991",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-a3cadab391",
+      "title": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
+      "description": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
+      "authority": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.11.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2639935",
       "value": null,
       "status": "open"
     },
@@ -535,6 +620,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2631205",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-0144eb26b0",
+      "title": "Neues Corporate Design für die Universität Greifswald",
+      "description": "Neues Corporate Design für die Universität Greifswald",
+      "authority": "Universität Greifswald",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "18.11.2026",
+      "categories": [
+        "Design"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2635581",
       "value": null,
       "status": "open"
     },
@@ -999,6 +1101,23 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-df2a02b5c1",
+      "title": "Layout und Druck des vhs-Programmhefts des Kreises Siegen-Wittgenstein und entsprechender Flyer im Corporate Design",
+      "description": "Layout und Druck des vhs-Programmhefts des Kreises Siegen-Wittgenstein und entsprechender Flyer im Corporate Design",
+      "authority": "Kreis Siegen-Wittgenstein",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "04.11.2026",
+      "categories": [
+        "Design"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2626980",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-d2bf1125ca",
       "title": "Hessisches Kulturgut-Portal",
       "description": "Hessisches Kulturgut-Portal",
@@ -1355,6 +1474,24 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2529151",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-242e07aee1",
+      "title": "Digital Marketing Services for the European Raw Materials  Academy and European Advanced Materials Academy",
+      "description": "Digital Marketing Services for the European Raw Materials  Academy and European Advanced Materials Academy",
+      "authority": "EIT RawMaterials GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "09.11.2026",
+      "categories": [
+        "Marketing",
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2622793",
       "value": null,
       "status": "closing"
     },
