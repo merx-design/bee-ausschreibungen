@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-02T16:27:28.725103Z",
-  "total": 173,
+  "updated": "2026-11-09T16:46:13.920852Z",
+  "total": 174,
   "sources": {
     "simap": 0,
-    "dtvp": 173
+    "dtvp": 174
   },
   "tenders": [
     {
@@ -316,6 +316,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-20d019e9e8",
+      "title": "Rahmenvertrag Webseite",
+      "description": "Rahmenvertrag Webseite",
+      "authority": "Landtag Brandenburg",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2643713",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-95d6a3f68f",
       "title": "Ausschreibung einer Online-Marketing und Performance-Marketing Agentur für Social Media Advertising - Programmatic Advertising - datengetriebene digitalen Kampagnen.",
       "description": "Ausschreibung einer Online-Marketing und Performance-Marketing Agentur für Social Media Advertising - Programmatic Advertising - datengetriebene digitalen Kampagnen.",
@@ -471,23 +488,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-d0ff0bf6e7",
-      "title": "App Review Management",
-      "description": "App Review Management",
-      "authority": "AOK connect GbR",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "13.11.2026",
-      "categories": [
-        "App"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2636472",
-      "value": null,
-      "status": "open"
-    },
-    {
       "id": "dtvp-a213993db5",
       "title": "Bereitstellung und Betrieb einer Groupware-SaaS-Lösung für E-Mail, Kalender, Kontakte, Aufgaben, Webmail",
       "description": "Bereitstellung und Betrieb einer Groupware-SaaS-Lösung für E-Mail, Kalender, Kontakte, Aufgaben, Webmail",
@@ -505,74 +505,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-ce7f5c4313",
-      "title": "Managed Services Website (Hosting, Betrieb, Betreuung, Weiterentwicklung) - TYPO3",
-      "description": "Managed Services Website (Hosting, Betrieb, Betreuung, Weiterentwicklung) - TYPO3",
-      "authority": "Managed Services Website (Hosting, Betrieb, Betreuung, Weiterentwicklung) - TYPO3",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "16.11.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2620887",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-8f412584a6",
-      "title": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
-      "description": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
-      "authority": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "16.11.2026",
-      "categories": [
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2631105",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-c114a1b4af",
-      "title": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
-      "description": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
-      "authority": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "16.11.2026",
-      "categories": [
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2638991",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-a3cadab391",
-      "title": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
-      "description": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
-      "authority": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "16.11.2026",
-      "categories": [
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2639935",
-      "value": null,
-      "status": "open"
-    },
-    {
       "id": "dtvp-31bdc96d64",
       "title": "Beschaffung eines Newsroom-Tools als SaaS",
       "description": "Beschaffung eines Newsroom-Tools als SaaS",
@@ -586,23 +518,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2565815",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-6b0f2de83e",
-      "title": "App zur Unterstützung eines gesunden Lebensstils von erwachsenen Versicherten mit Adipositas",
-      "description": "App zur Unterstützung eines gesunden Lebensstils von erwachsenen Versicherten mit Adipositas",
-      "authority": "DAK-Gesundheit",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "17.11.2026",
-      "categories": [
-        "App"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2630416",
       "value": null,
       "status": "open"
     },
@@ -756,6 +671,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2027382",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-6b0f2de83e",
+      "title": "App zur Unterstützung eines gesunden Lebensstils von erwachsenen Versicherten mit Adipositas",
+      "description": "App zur Unterstützung eines gesunden Lebensstils von erwachsenen Versicherten mit Adipositas",
+      "authority": "DAK-Gesundheit",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "24.11.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2630416",
       "value": null,
       "status": "open"
     },
@@ -1478,24 +1410,6 @@
       "status": "closing"
     },
     {
-      "id": "dtvp-242e07aee1",
-      "title": "Digital Marketing Services for the European Raw Materials  Academy and European Advanced Materials Academy",
-      "description": "Digital Marketing Services for the European Raw Materials  Academy and European Advanced Materials Academy",
-      "authority": "EIT RawMaterials GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "09.11.2026",
-      "categories": [
-        "Marketing",
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2622793",
-      "value": null,
-      "status": "closing"
-    },
-    {
       "id": "dtvp-9cb43c1987",
       "title": "IQB - Entwicklung von Grafiken für die computergestützte Testung in den Fächern Bio-logie, Chemie, Physik, Mathematik, Deutsch, Englisch und Französisch der Sekundarstufe I",
       "description": "IQB - Entwicklung von Grafiken für die computergestützte Testung in den Fächern Bio-logie, Chemie, Physik, Mathematik, Deutsch, Englisch und Französisch der Sekundarstufe I",
@@ -1730,6 +1644,41 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2561726",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-d0ff0bf6e7",
+      "title": "App Review Management",
+      "description": "App Review Management",
+      "authority": "AOK connect GbR",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "13.11.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2636472",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-242e07aee1",
+      "title": "Digital Marketing Services for the European Raw Materials  Academy and European Advanced Materials Academy",
+      "description": "Digital Marketing Services for the European Raw Materials  Academy and European Advanced Materials Academy",
+      "authority": "EIT RawMaterials GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "13.11.2026",
+      "categories": [
+        "Marketing",
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2622793",
       "value": null,
       "status": "closing"
     },
@@ -2071,6 +2020,74 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2583257",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-ce7f5c4313",
+      "title": "Managed Services Website (Hosting, Betrieb, Betreuung, Weiterentwicklung) - TYPO3",
+      "description": "Managed Services Website (Hosting, Betrieb, Betreuung, Weiterentwicklung) - TYPO3",
+      "authority": "Managed Services Website (Hosting, Betrieb, Betreuung, Weiterentwicklung) - TYPO3",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.11.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2620887",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-8f412584a6",
+      "title": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
+      "description": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
+      "authority": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.11.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2631105",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-c114a1b4af",
+      "title": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
+      "description": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
+      "authority": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.11.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2638991",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-a3cadab391",
+      "title": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
+      "description": "Softwareentwicklung für das Projekt Landtagsverwaltung; LDBV",
+      "authority": "Zentrale Vergabestelle im Bayerischen Landesamt für Steuern",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "16.11.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2639935",
       "value": null,
       "status": "closing"
     },
