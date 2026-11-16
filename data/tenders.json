@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T16:46:13.920852Z",
+  "updated": "2026-11-16T16:16:55.142919Z",
   "total": 174,
   "sources": {
     "simap": 0,
@@ -522,57 +522,6 @@
       "status": "open"
     },
     {
-      "id": "dtvp-3c72521c1c",
-      "title": "Rahmenvertrag wissenschaftlich-technische Softwareentwicklung",
-      "description": "Rahmenvertrag wissenschaftlich-technische Softwareentwicklung",
-      "authority": "FIZ Karlsruhe - Leibniz-Institut für  Informationsinfrastruktur GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "18.11.2026",
-      "categories": [
-        "Digitalisierung"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2631205",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-0144eb26b0",
-      "title": "Neues Corporate Design für die Universität Greifswald",
-      "description": "Neues Corporate Design für die Universität Greifswald",
-      "authority": "Universität Greifswald",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "18.11.2026",
-      "categories": [
-        "Design"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2635581",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-cdf9d56f38",
-      "title": "Rahmenvereinbarung für Unterstützungsleistungen CRM",
-      "description": "Rahmenvereinbarung für Unterstützungsleistungen CRM",
-      "authority": "gematik GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "20.11.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2633252",
-      "value": null,
-      "status": "open"
-    },
-    {
       "id": "dtvp-f3168a4a5d",
       "title": "Vergabe von Dienstleistungen zum Website-Support und der Erstellung einer Portal-Website",
       "description": "Vergabe von Dienstleistungen zum Website-Support und der Erstellung einer Portal-Website",
@@ -620,40 +569,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2566667",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-8c03f2b443",
-      "title": "Ausschreibung über den Betrieb, Hosting und Weiterentwicklung der Website www.kkh.de inklusive Migration auf ein zukunftsfähiges CMS-System",
-      "description": "Ausschreibung über den Betrieb, Hosting und Weiterentwicklung der Website www.kkh.de inklusive Migration auf ein zukunftsfähiges CMS-System",
-      "authority": "Kaufmännische Krankenkasse - KKH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "23.11.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2633302",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-90f715011a",
-      "title": "Transformation SAP S4 Hana",
-      "description": "Transformation SAP S4 Hana",
-      "authority": "SWU Stadtwerke Ulm/Neu-Ulm GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "23.11.2026",
-      "categories": [
-        "ERP"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2634093",
       "value": null,
       "status": "open"
     },
@@ -2211,6 +2126,40 @@
       "status": "closing"
     },
     {
+      "id": "dtvp-3c72521c1c",
+      "title": "Rahmenvertrag wissenschaftlich-technische Softwareentwicklung",
+      "description": "Rahmenvertrag wissenschaftlich-technische Softwareentwicklung",
+      "authority": "FIZ Karlsruhe - Leibniz-Institut für  Informationsinfrastruktur GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "18.11.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2631205",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-0144eb26b0",
+      "title": "Neues Corporate Design für die Universität Greifswald",
+      "description": "Neues Corporate Design für die Universität Greifswald",
+      "authority": "Universität Greifswald",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "18.11.2026",
+      "categories": [
+        "Design"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2635581",
+      "value": null,
+      "status": "closing"
+    },
+    {
       "id": "dtvp-3c556c44be",
       "title": "AppSecurity-Expertentest",
       "description": "AppSecurity-Expertentest",
@@ -2276,6 +2225,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2541386",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-cdf9d56f38",
+      "title": "Rahmenvereinbarung für Unterstützungsleistungen CRM",
+      "description": "Rahmenvereinbarung für Unterstützungsleistungen CRM",
+      "authority": "gematik GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "20.11.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2633252",
       "value": null,
       "status": "closing"
     },
@@ -2448,6 +2414,40 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2550233",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-8c03f2b443",
+      "title": "Ausschreibung über den Betrieb, Hosting und Weiterentwicklung der Website www.kkh.de inklusive Migration auf ein zukunftsfähiges CMS-System",
+      "description": "Ausschreibung über den Betrieb, Hosting und Weiterentwicklung der Website www.kkh.de inklusive Migration auf ein zukunftsfähiges CMS-System",
+      "authority": "Kaufmännische Krankenkasse - KKH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "23.11.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2633302",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-90f715011a",
+      "title": "Transformation SAP S4 Hana",
+      "description": "Transformation SAP S4 Hana",
+      "authority": "SWU Stadtwerke Ulm/Neu-Ulm GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "23.11.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2634093",
       "value": null,
       "status": "closing"
     },
