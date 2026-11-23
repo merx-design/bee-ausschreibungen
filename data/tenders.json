@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-16T16:16:55.142919Z",
-  "total": 174,
+  "updated": "2026-11-23T18:37:49.410536Z",
+  "total": 179,
   "sources": {
     "simap": 0,
-    "dtvp": 174
+    "dtvp": 179
   },
   "tenders": [
     {
@@ -386,6 +386,57 @@
       "status": "open"
     },
     {
+      "id": "dtvp-cdf9d56f38",
+      "title": "Rahmenvereinbarung für Unterstützungsleistungen CRM",
+      "description": "Rahmenvereinbarung für Unterstützungsleistungen CRM",
+      "authority": "gematik GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "01.12.2026",
+      "categories": [
+        "CRM"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2633252",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-7d7a2944f1",
+      "title": "Website für das Projekt Standortmanagement Gewerbegebiet Storkower Straße",
+      "description": "Website für das Projekt Standortmanagement Gewerbegebiet Storkower Straße",
+      "authority": "Zentrale Vergabestelle",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "01.12.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2651717",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-8c03f2b443",
+      "title": "Ausschreibung über den Betrieb, Hosting und Weiterentwicklung der Website www.kkh.de inklusive Migration auf ein zukunftsfähiges CMS-System",
+      "description": "Ausschreibung über den Betrieb, Hosting und Weiterentwicklung der Website www.kkh.de inklusive Migration auf ein zukunftsfähiges CMS-System",
+      "authority": "Kaufmännische Krankenkasse - KKH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "03.12.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2633302",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-e5c5a73573",
       "title": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
       "description": "Ausschreibung Leadagentur für das Landesmarketing Thüringens, verantwortet durch die Thüringer Staatskanzlei (TSK)",
@@ -488,6 +539,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-e6cbdcbaa8",
+      "title": "ERP Lösung- Los BI",
+      "description": "ERP Lösung- Los BI",
+      "authority": "Medizinischer Dienst Baden-Württemberg",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "11.12.2026",
+      "categories": [
+        "ERP"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2650524",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-a213993db5",
       "title": "Bereitstellung und Betrieb einer Groupware-SaaS-Lösung für E-Mail, Kalender, Kontakte, Aufgaben, Webmail",
       "description": "Bereitstellung und Betrieb einer Groupware-SaaS-Lösung für E-Mail, Kalender, Kontakte, Aufgaben, Webmail",
@@ -518,6 +586,41 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2565815",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-0f4a5ac73a",
+      "title": "10068353 - Consultancy to simplify customs procedures related to e-commerce in CEFTA by introducing Electronic Advanced Data (EAD) sharing - expert advisory services",
+      "description": "10068353 - Consultancy to simplify customs procedures related to e-commerce in CEFTA by introducing Electronic Advanced Data (EAD) sharing - expert advisory services",
+      "authority": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "18.12.2026",
+      "categories": [
+        "Digitalisierung",
+        "E-Commerce"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2654899",
+      "value": null,
+      "status": "open"
+    },
+    {
+      "id": "dtvp-506e6376c4",
+      "title": "Softwareentwicklung für das Projekt Genesis",
+      "description": "Softwareentwicklung für das Projekt Genesis",
+      "authority": "Landesbetrieb Information und Technik NRW",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "18.12.2026",
+      "categories": [
+        "Digitalisierung"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2653151",
       "value": null,
       "status": "open"
     },
@@ -573,6 +676,23 @@
       "status": "open"
     },
     {
+      "id": "dtvp-8a8822b51a",
+      "title": "Weiterentwicklung und Betrieb der Website sowie des Cybersicherheitsportals der CSBW",
+      "description": "Weiterentwicklung und Betrieb der Website sowie des Cybersicherheitsportals der CSBW",
+      "authority": "Land Baden-Württemberg vertreten durch die Cybersicherheitsagentur Baden-Württemberg",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "22.12.2026",
+      "categories": [
+        "Website"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/secured/company/projectForwarding.do?pid=2655257",
+      "value": null,
+      "status": "open"
+    },
+    {
       "id": "dtvp-5f2ea27b96",
       "title": "Dynamisches Beschaffungssystem zur Beschaffung von verschiedenen IT-Dienstleistungen",
       "description": "Dynamisches Beschaffungssystem zur Beschaffung von verschiedenen IT-Dienstleistungen",
@@ -586,23 +706,6 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2027382",
-      "value": null,
-      "status": "open"
-    },
-    {
-      "id": "dtvp-6b0f2de83e",
-      "title": "App zur Unterstützung eines gesunden Lebensstils von erwachsenen Versicherten mit Adipositas",
-      "description": "App zur Unterstützung eines gesunden Lebensstils von erwachsenen Versicherten mit Adipositas",
-      "authority": "DAK-Gesundheit",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "24.11.2026",
-      "categories": [
-        "App"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2630416",
       "value": null,
       "status": "open"
     },
@@ -2229,23 +2332,6 @@
       "status": "closing"
     },
     {
-      "id": "dtvp-cdf9d56f38",
-      "title": "Rahmenvereinbarung für Unterstützungsleistungen CRM",
-      "description": "Rahmenvereinbarung für Unterstützungsleistungen CRM",
-      "authority": "gematik GmbH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "20.11.2026",
-      "categories": [
-        "CRM"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2633252",
-      "value": null,
-      "status": "closing"
-    },
-    {
       "id": "dtvp-bda6140f7f",
       "title": "Digital Hub und Social Media für die Metropolregion Hamburg",
       "description": "Digital Hub und Social Media für die Metropolregion Hamburg",
@@ -2418,23 +2504,6 @@
       "status": "closing"
     },
     {
-      "id": "dtvp-8c03f2b443",
-      "title": "Ausschreibung über den Betrieb, Hosting und Weiterentwicklung der Website www.kkh.de inklusive Migration auf ein zukunftsfähiges CMS-System",
-      "description": "Ausschreibung über den Betrieb, Hosting und Weiterentwicklung der Website www.kkh.de inklusive Migration auf ein zukunftsfähiges CMS-System",
-      "authority": "Kaufmännische Krankenkasse - KKH",
-      "location": "Deutschland",
-      "country": "DE",
-      "published": "",
-      "deadline": "23.11.2026",
-      "categories": [
-        "Website"
-      ],
-      "source": "dtvp",
-      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2633302",
-      "value": null,
-      "status": "closing"
-    },
-    {
       "id": "dtvp-90f715011a",
       "title": "Transformation SAP S4 Hana",
       "description": "Transformation SAP S4 Hana",
@@ -2484,6 +2553,23 @@
       ],
       "source": "dtvp",
       "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2549985",
+      "value": null,
+      "status": "closing"
+    },
+    {
+      "id": "dtvp-6b0f2de83e",
+      "title": "App zur Unterstützung eines gesunden Lebensstils von erwachsenen Versicherten mit Adipositas",
+      "description": "App zur Unterstützung eines gesunden Lebensstils von erwachsenen Versicherten mit Adipositas",
+      "authority": "DAK-Gesundheit",
+      "location": "Deutschland",
+      "country": "DE",
+      "published": "",
+      "deadline": "24.11.2026",
+      "categories": [
+        "App"
+      ],
+      "source": "dtvp",
+      "url": "https://www.dtvp.de/Center/public/company/projectForwarding.do?pid=2630416",
       "value": null,
       "status": "closing"
     },
